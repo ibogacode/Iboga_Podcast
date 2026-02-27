@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+  <channel>
+    <title>Rewired: The Ibogaine Experience</title>
+    <link>https://theibogainstitute.org</link>
+    <language>en-us</language>
+    <description>Welcome to 'Rewired: The Ibogaine Experience,' an intimate journey into the lives transformed by ibogaine therapy. Join us for powerful conversations with patients, families, and practitioners from The Iboga Wellness Institute as they share the real stories behind their healing. From veterans battling PTSD to those overcoming addiction and Parkinson's patients finding relief, discover the profound moments that led them to this groundbreaking treatment. Our podcast explores the intersection of cutting-edge research and personal recovery, revealing ibogaine's potential as a catalyst for genuine transformation when conventional medicine falls short.
+    
+Brought to you by IBOGA Wellness Institute.
+    
+You'll hear honest conversations about struggle, recovery, and what happens after treatment. Veterans with PTSD, people overcoming addiction, patients with Parkinson's experiencing symptom improvements, and the family members who supported them through the decision.
+    
+These are authentic stories backed by research. No false promises. No wellness industry marketing. Just real people sharing what worked when traditional treatments failed.
+    
+If you're researching options for someone you love, or seeking answers for yourself, you're not alone.
+    
+New episodes. Real stories. Real outcomes. Real hope.
+    
+Learn more: https://theibogainstitute.org</description>
+
+    <!-- Set this to the final public URL where THIS RSS XML is hosted -->
+    <atom:link href="https://raw.githubusercontent.com/aidatamanagement/Iboga_Podcast/main/Rewired.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- Recommended metadata -->
+    <lastBuildDate>Wed, 03 Dec 2025 10:15:00 -0500</lastBuildDate>
+    <itunes:type>episodic</itunes:type>
+
+    <!-- Spotify reads iTunes podcast tags -->
+    <itunes:author>The Iboga Wellness Institute</itunes:author>
+    <itunes:summary>Sarah Mitchell has personal experience researching treatments for a loved one at 2am. She knows what it's like to be exhausted, hopeful, and trying to separate science from marketing. After seeing the real results ibogaine offers, Sarah brings you the research and shares authentic experiences from people who have walked this path.
+Sarah speaks to you as a peer, not an expert. She's been where you are.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+
+    <itunes:owner>
+      <itunes:name>Shubakar Poda</itunes:name>
+      <itunes:email>contactus@theibogainstitute.org</itunes:email>
+    </itunes:owner>
+
+    <itunes:category text="Technology"/>
+
+    <!-- Prefer hosting your own cover art long-term, but this URL is syntactically fine -->
+    <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/Rewired%20by%20Iboga%20Wellness%20Institute%20Main%20banner.jpg"/>
+
+    <!-- Optional nice-to-haves -->
+    <itunes:subtitle>Supabase-hosted podcast feed test</itunes:subtitle>
+    <itunes:keywords>supabase, podcast, testing, aidm</itunes:keywords>
+
+
+
+  
+ 
+    
+
+  
+  
+    
+  
+    <item>
+      <title><![CDATA[One Session, Lasting Freedom—The Long-Term Effects of Ibogaine]]></title>
+      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/OneSessionLastingFreedomTheLongTermEffectsofIbogaine_Episode_Image.jpeg" />
+      <description><![CDATA[A twelve-month study revealed that fifty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That success rate is five times higher than traditional rehab programs. Another compelling outcome is an 88% reduction in PTSD symptoms sustained at six months, showcasing ibogaine's wide-ranging impact beyond just addiction.
+
+This research represents hope for millions seeking a lasting change. Today, you'll hear about Marcus, a client who found profound freedom after years battling an insidious addiction.
+
+Let's hear their story.
+
+Marcus, a 42-year-old veteran and dedicated construction worker, was once defined by his opioid addiction. It had started innocently enough, a prescription for a back injury, but it quickly escalated, gripping him for over a decade. He was a father of two, but his children knew a version of him clouded by constant cravings, irritability, and the ever-present fear of withdrawal. His life became an exhausting cycle of securing his next dose, losing jobs, and alienating those he loved most. The man he once was felt lost beneath the weight of his struggle.
+
+He had tried everything. Multiple 30-day rehab programs offered temporary breaks, but the insidious neurological wiring of addiction always pulled him back. Suboxone helped manage the physical symptoms but often felt like substituting one dependency for another. Therapy provided tools, but without addressing the underlying brain chemistry, the cravings and the psychological pull were too strong. Every attempt left him more defeated, reinforcing the belief that true, lasting freedom was an impossible dream. The sheer terror of withdrawal was a cage he couldn't escape, always drawing him back to the very substance that was destroying his life.
+
+Desperate and at his lowest point, Marcus stumbled upon information about ibogaine. He was skeptical; how could a single session possibly undo a decade of addiction? But the testimonials of a neurological reset, of withdrawal being virtually eliminated, captivated him. He meticulously researched the Iboga Wellness Institute, drawn in by their comprehensive safety protocols and the promise of a complete re-wiring rather than mere symptom management. The blend of ancient wisdom and modern neuroscience spoke to something deep within him, urging him to take a chance.
+
+His journey to treatment began with a rigorous medical screening. At the Institute, he was under constant 24/7 medical supervision, including continuous cardiac monitoring and magnesium co-administration, a vital part of our safety protocols. The treatment itself was intense, an introspective journey that felt like a lifetime's worth of therapy condensed into a few hours. Marcus described experiencing a profound "life review," confronting past traumas and gaining incredible clarity. The physical withdrawal symptoms he dreaded so much, the ones that had always broken his resolve, simply dissipated, almost miraculously, within 24 hours. He lay there, expecting the torment, but it never came.
+
+When he emerged from the deep state, Marcus felt an immediate, profound shift. His mind was clear, unburdened by the constant noise of cravings and the shadow of withdrawal. It was as if his brain had been physically reset to a pre-addiction state. This wasn't just abstinence; it was neurological transformation. Over the following weeks, his energy returned, his focus sharpened, and he began to engage with the world, and more importantly, with his family, in a way he hadn't in years. His wife remarked that he was truly "present" for the first time she could remember. He found himself thinking clearly, feeling emotions without the dulling effect of opioids, and experiencing a profound sense of peace. The GDNF production stimulated by ibogaine was actively repairing the damaged dopamine circuits in his brain, bringing about a healing conventional medicine simply couldn't achieve. This was indeed "where broken becomes breakthrough."
+
+Now, six months post-treatment, Marcus's life is a testament to the lasting freedom ibogaine can offer. He remains completely abstinent, the cravings a distant memory. He’s back at work, performing at his peak, and most importantly, he’s an engaged and loving father again. The long-term improvements extend beyond just sobriety; his family relationships have been significantly mended, a testament to the comprehensive healing that takes place. He continues with regular integration therapy, reinforcing the insights gained during his ibogaine experience. The calm in his eyes, the renewed purpose in his stride, and the genuine laughter with his children are all proof of the powerful, enduring impact of one session. His story truly embodies what it means to achieve lasting freedom.
+
+Learn more: https://theibogainstitute.org]]></description>
+      <content:encoded><![CDATA[A twelve-month study revealed that fifty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That success rate is five times higher than traditional rehab programs. Another compelling outcome is an 88% reduction in PTSD symptoms sustained at six months, showcasing ibogaine's wide-ranging impact beyond just addiction.
+
+This research represents hope for millions seeking a lasting change. Today, you'll hear about Marcus, a client who found profound freedom after years battling an insidious addiction.
+
+Let's hear their story.
+
+Marcus, a 42-year-old veteran and dedicated construction worker, was once defined by his opioid addiction. It had started innocently enough, a prescription for a back injury, but it quickly escalated, gripping him for over a decade. He was a father of two, but his children knew a version of him clouded by constant cravings, irritability, and the ever-present fear of withdrawal. His life became an exhausting cycle of securing his next dose, losing jobs, and alienating those he loved most. The man he once was felt lost beneath the weight of his struggle.
+
+He had tried everything. Multiple 30-day rehab programs offered temporary breaks, but the insidious neurological wiring of addiction always pulled him back. Suboxone helped manage the physical symptoms but often felt like substituting one dependency for another. Therapy provided tools, but without addressing the underlying brain chemistry, the cravings and the psychological pull were too strong. Every attempt left him more defeated, reinforcing the belief that true, lasting freedom was an impossible dream. The sheer terror of withdrawal was a cage he couldn't escape, always drawing him back to the very substance that was destroying his life.
+
+Desperate and at his lowest point, Marcus stumbled upon information about ibogaine. He was skeptical; how could a single session possibly undo a decade of addiction? But the testimonials of a neurological reset, of withdrawal being virtually eliminated, captivated him. He meticulously researched the Iboga Wellness Institute, drawn in by their comprehensive safety protocols and the promise of a complete re-wiring rather than mere symptom management. The blend of ancient wisdom and modern neuroscience spoke to something deep within him, urging him to take a chance.
+
+His journey to treatment began with a rigorous medical screening. At the Institute, he was under constant 24/7 medical supervision, including continuous cardiac monitoring and magnesium co-administration, a vital part of our safety protocols. The treatment itself was intense, an introspective journey that felt like a lifetime's worth of therapy condensed into a few hours. Marcus described experiencing a profound "life review," confronting past traumas and gaining incredible clarity. The physical withdrawal symptoms he dreaded so much, the ones that had always broken his resolve, simply dissipated, almost miraculously, within 24 hours. He lay there, expecting the torment, but it never came.
+
+When he emerged from the deep state, Marcus felt an immediate, profound shift. His mind was clear, unburdened by the constant noise of cravings and the shadow of withdrawal. It was as if his brain had been physically reset to a pre-addiction state. This wasn't just abstinence; it was neurological transformation. Over the following weeks, his energy returned, his focus sharpened, and he began to engage with the world, and more importantly, with his family, in a way he hadn't in years. His wife remarked that he was truly "present" for the first time she could remember. He found himself thinking clearly, feeling emotions without the dulling effect of opioids, and experiencing a profound sense of peace. The GDNF production stimulated by ibogaine was actively repairing the damaged dopamine circuits in his brain, bringing about a healing conventional medicine simply couldn't achieve. This was indeed "where broken becomes breakthrough."
+
+Now, six months post-treatment, Marcus's life is a testament to the lasting freedom ibogaine can offer. He remains completely abstinent, the cravings a distant memory. He’s back at work, performing at his peak, and most importantly, he’s an engaged and loving father again. The long-term improvements extend beyond just sobriety; his family relationships have been significantly mended, a testament to the comprehensive healing that takes place. He continues with regular integration therapy, reinforcing the insights gained during his ibogaine experience. The calm in his eyes, the renewed purpose in his stride, and the genuine laughter with his children are all proof of the powerful, enduring impact of one session. His story truly embodies what it means to achieve lasting freedom.
+
+Learn more: https://theibogainstitute.org]]></content:encoded>
+      <guid isPermaLink="false">OneSessionLastingFreedomTheLongTermEffectsofIbogaine</guid>
+      <pubDate>Wed, 04 Feb 2026 16:36:53 GMT</pubDate>
+      <enclosure
+        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/OneSessionLastingFreedomTheLongTermEffectsofIbogaine.mp3"
+        length="12345678"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  
+    <item>
+      <title><![CDATA[Why Traditional Detox Fails So Many People (And What Actually Works)]]></title>
+      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/WhyTraditionalDetoxFailsSoManyPeopleAndWhatActuallyWorks_Episode_Image.jpeg" />
+      <description><![CDATA[Research shows that traditional detox programs for opioid dependency often have very low long-term success rates, with only around 5-10% of individuals achieving sustained abstinence after one year. This stark reality means nearly 90% of clients eventually relapse, caught in a devastating cycle. In contrast, some studies on ibogaine treatment for opioid dependence report abstinence rates closer to 50% at one year, a five to tenfold improvement over conventional methods.
+
+This massive gap between expectation and reality leaves millions feeling hopeless, trapped in a cycle they can't break. Today, we're going to hear from Michael, a client who experienced this very cycle firsthand.
+
+Michael spent years caught in the revolving door of conventional detox, each attempt ending in frustration and relapse, until he discovered a different path.
+
+Michael was a successful architect in his early 40s, a husband and father of two. His struggle began innocently enough, with a prescription for painkillers after a back injury. What started as pain management slowly, insidiously, morphed into dependency. Soon, he was chasing pills, not for pain, but to simply feel normal, to stave off the crushing withdrawal symptoms that haunted his every waking moment. The impact was devastating. He started missing work, his temper grew short with his family, and he was consumed by a secret that threatened to dismantle his entire life. He describes feeling like a prisoner in his own body, constantly planning his next dose, living in fear of running out.
+
+He tried everything he thought he was supposed to. First, a medical detox at a well-known facility. He endured the painful withdrawal, the nausea, the muscle aches, the restless legs. He made it through the physical part, but the intense cravings returned almost immediately after he left, stronger than ever. He then moved into a 30-day rehab, where he learned coping mechanisms and attended group therapy. He sincerely wanted to change, but the underlying neurological rewiring of his brain remained untouched. The psychological pull, the deep-seated urge, never truly subsided. He relapsed within weeks of returning home. This cycle repeated itself three more times over two years. Each failure chipped away at his hope, convincing him that he was broken beyond repair, that willpower simply wasn’t enough. And he was right, in a way. Willpower alone cannot undo the molecular changes addiction makes in the brain.
+
+The problem with traditional detox is that it primarily addresses the physical symptoms of withdrawal. It gets the substance out of your system, but it doesn't repair the underlying neurological damage. Your brain’s reward system, particularly the dopamine pathways, are fundamentally altered. You’re left with intense cravings, anhedonia – the inability to feel pleasure – and a deeply ingrained memory of the drug’s effects. It's like patching a leak without fixing the burst pipe. The system still fundamentally needs repair. Conventional programs often don't provide a targeted approach to this neurological imbalance, leading to the high rates of relapse we see. They treat the symptoms, not the root cause.
+
+Michael was at his lowest point, facing the possibility of losing his family and career. In a moment of sheer desperation, late one night, he stumbled upon articles about ibogaine therapy. He was skeptical, of course. He’d heard promises before. But what he read about ibogaine’s unique mechanism – its ability to essentially “reset” the brain to a pre-addicted state – resonated with a different kind of hope. He spent weeks researching, reading scientific papers, and watching testimonials. He learned about the comprehensive medical screening and 24/7 cardiac monitoring that accompanies treatment, realizing this wasn't some unregulated underground process, but a medically supervised intervention. He found Iboga Wellness Institute and, after a thorough consultation, decided to take this leap of faith.
+
+His treatment experience at Iboga Wellness Institute was unlike anything he’d encountered before. From the moment he arrived, he felt a profound sense of safety and care, a far cry from the sterile, often impersonal feel of traditional detox centers. The medical team performed extensive cardiac screening, administered magnesium for heart protection, and monitored his vital signs continuously. When he received the ibogaine, Michael describes a profound, introspective journey. He didn't experience the agonizing physical withdrawal he'd come to dread; the severe symptoms were eliminated within 24 hours. The most remarkable part, he says, was the mental clarity that followed. The incessant cravings that had plagued him for years were simply… gone. It was as if a heavy fog had lifted from his mind. This isn't just symptom management; it's a neurological transformation, stimulating neuroplasticity and the production of growth factors like GDNF, which actually help repair damaged dopamine circuits.
+
+What changed for Michael was everything. The physical chains of withdrawal were broken, but more importantly, the psychological grip of addiction had loosened. He felt a newfound sense of emotional balance and a perspective on his past trauma that he'd never been able to access before. Six months later, Michael describes himself as a different man. He’s reconnected deeply with his wife and children, able to be truly present with them. He's back to his demanding job, approaching it with renewed focus and creativity. The constant pressure and shame that defined his daily existence are replaced by a quiet sense of peace and gratitude. He understands that recovery is an ongoing journey, but the foundation laid by ibogaine provided the neurological reset he needed to build a life free from dependency. He credits the one treatment paradigm for creating lasting change that previous attempts could only temporarily manage. Michael is living proof that where broken becomes breakthrough, genuine healing is possible.
+
+Learn more: https://theibogainstitute.org]]></description>
+      <content:encoded><![CDATA[Research shows that traditional detox programs for opioid dependency often have very low long-term success rates, with only around 5-10% of individuals achieving sustained abstinence after one year. This stark reality means nearly 90% of clients eventually relapse, caught in a devastating cycle. In contrast, some studies on ibogaine treatment for opioid dependence report abstinence rates closer to 50% at one year, a five to tenfold improvement over conventional methods.
+
+This massive gap between expectation and reality leaves millions feeling hopeless, trapped in a cycle they can't break. Today, we're going to hear from Michael, a client who experienced this very cycle firsthand.
+
+Michael spent years caught in the revolving door of conventional detox, each attempt ending in frustration and relapse, until he discovered a different path.
+
+Michael was a successful architect in his early 40s, a husband and father of two. His struggle began innocently enough, with a prescription for painkillers after a back injury. What started as pain management slowly, insidiously, morphed into dependency. Soon, he was chasing pills, not for pain, but to simply feel normal, to stave off the crushing withdrawal symptoms that haunted his every waking moment. The impact was devastating. He started missing work, his temper grew short with his family, and he was consumed by a secret that threatened to dismantle his entire life. He describes feeling like a prisoner in his own body, constantly planning his next dose, living in fear of running out.
+
+He tried everything he thought he was supposed to. First, a medical detox at a well-known facility. He endured the painful withdrawal, the nausea, the muscle aches, the restless legs. He made it through the physical part, but the intense cravings returned almost immediately after he left, stronger than ever. He then moved into a 30-day rehab, where he learned coping mechanisms and attended group therapy. He sincerely wanted to change, but the underlying neurological rewiring of his brain remained untouched. The psychological pull, the deep-seated urge, never truly subsided. He relapsed within weeks of returning home. This cycle repeated itself three more times over two years. Each failure chipped away at his hope, convincing him that he was broken beyond repair, that willpower simply wasn’t enough. And he was right, in a way. Willpower alone cannot undo the molecular changes addiction makes in the brain.
+
+The problem with traditional detox is that it primarily addresses the physical symptoms of withdrawal. It gets the substance out of your system, but it doesn't repair the underlying neurological damage. Your brain’s reward system, particularly the dopamine pathways, are fundamentally altered. You’re left with intense cravings, anhedonia – the inability to feel pleasure – and a deeply ingrained memory of the drug’s effects. It's like patching a leak without fixing the burst pipe. The system still fundamentally needs repair. Conventional programs often don't provide a targeted approach to this neurological imbalance, leading to the high rates of relapse we see. They treat the symptoms, not the root cause.
+
+Michael was at his lowest point, facing the possibility of losing his family and career. In a moment of sheer desperation, late one night, he stumbled upon articles about ibogaine therapy. He was skeptical, of course. He’d heard promises before. But what he read about ibogaine’s unique mechanism – its ability to essentially “reset” the brain to a pre-addicted state – resonated with a different kind of hope. He spent weeks researching, reading scientific papers, and watching testimonials. He learned about the comprehensive medical screening and 24/7 cardiac monitoring that accompanies treatment, realizing this wasn't some unregulated underground process, but a medically supervised intervention. He found Iboga Wellness Institute and, after a thorough consultation, decided to take this leap of faith.
+
+His treatment experience at Iboga Wellness Institute was unlike anything he’d encountered before. From the moment he arrived, he felt a profound sense of safety and care, a far cry from the sterile, often impersonal feel of traditional detox centers. The medical team performed extensive cardiac screening, administered magnesium for heart protection, and monitored his vital signs continuously. When he received the ibogaine, Michael describes a profound, introspective journey. He didn't experience the agonizing physical withdrawal he'd come to dread; the severe symptoms were eliminated within 24 hours. The most remarkable part, he says, was the mental clarity that followed. The incessant cravings that had plagued him for years were simply… gone. It was as if a heavy fog had lifted from his mind. This isn't just symptom management; it's a neurological transformation, stimulating neuroplasticity and the production of growth factors like GDNF, which actually help repair damaged dopamine circuits.
+
+What changed for Michael was everything. The physical chains of withdrawal were broken, but more importantly, the psychological grip of addiction had loosened. He felt a newfound sense of emotional balance and a perspective on his past trauma that he'd never been able to access before. Six months later, Michael describes himself as a different man. He’s reconnected deeply with his wife and children, able to be truly present with them. He's back to his demanding job, approaching it with renewed focus and creativity. The constant pressure and shame that defined his daily existence are replaced by a quiet sense of peace and gratitude. He understands that recovery is an ongoing journey, but the foundation laid by ibogaine provided the neurological reset he needed to build a life free from dependency. He credits the one treatment paradigm for creating lasting change that previous attempts could only temporarily manage. Michael is living proof that where broken becomes breakthrough, genuine healing is possible.
+
+Learn more: https://theibogainstitute.org]]></content:encoded>
+      <guid isPermaLink="false">WhyTraditionalDetoxFailsSoManyPeopleAndWhatActuallyWorks</guid>
+      <pubDate>Wed, 04 Feb 2026 17:36:35 GMT</pubDate>
+      <enclosure
+        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/WhyTraditionalDetoxFailsSoManyPeopleAndWhatActuallyWorks.mp3"
+        length="12345678"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  
+    <item>
+      <title><![CDATA[The Brain's Hidden Reset Button: Breaking Free Without Maintenance Meds]]></title>
+      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheBrainsHiddenResetButtonBreakingFreeWithoutMaintenanceMeds_Episode_Image.jpeg" />
+      <description><![CDATA[A twelve-month study found that fifty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That's five times the success rate of traditional rehab programs. This isn't just about managing symptoms; it's about a profound neurological reset that can break the cycle of dependence. Ibogaine therapy has often been called the brain's hidden reset button, offering a way to break free without the need for endless maintenance medications.
+
+That research represents hope for millions seeking true freedom. Today, you'll meet Mark, a man who thought he was destined for a lifetime tethered to medication, but discovered a path to genuine liberation.
+
+Mark, a 45-year-old architect, was a husband and father of two teenagers. From the outside, his life looked perfect. He had a successful career, a beautiful home, and a loving family. But beneath the surface, Mark was battling a secret opioid addiction. It started innocently enough, with prescribed painkillers for a back injury. When the prescriptions ran out, the pain of withdrawal and the insidious grip of addiction led him to street opioids.
+
+His struggle was a silent torment. Each day was a tightrope walk of secrecy, fear of discovery, and the shame that gnawed at his soul. His marriage suffered from his emotional distance, his work felt hollow, and the constant need to acquire drugs drained his finances and his spirit. He lived in a perpetual state of anxiety, always planning his next dose, always afraid of what would happen if he couldn't get it.
+
+Mark had tried everything. He went through traditional rehab programs multiple times, enduring agonizing withdrawals only to relapse weeks or months later. He tried Suboxone, which dulled the cravings but left him feeling numb and dependent on yet another substance. Naltrexone injections offered a physical barrier to getting high, but the underlying psychological pull remained, a constant whisper in his mind. Each attempt felt like a temporary truce, never a victory. He felt trapped, convinced he was doomed to a life on maintenance medications, always just one slip away from falling back into the abyss.
+
+His wife, Sarah, was the one who stumbled upon Iboga Wellness Institute online. Desperate, she researched ibogaine, reading testimonials about a complete neurological reset, a one-time treatment that could free people from addiction’s grasp without requiring ongoing medication. Mark was skeptical, having been burned so many times before, but the idea of a true "reset button" for his brain, a way to reclaim his life entirely, was too compelling to ignore.
+
+The journey to treatment began with a comprehensive medical screening. At Iboga Wellness Institute, safety is paramount. Mark underwent thorough cardiac evaluations, blood tests, and psychological assessments to ensure he was a suitable candidate. He was reassured by the 24/7 medical monitoring and the trained staff who would be with him every step of the way. During the treatment, he received magnesium co-administration, a crucial part of their protocol for cardiac safety.
+
+Mark described the ibogaine experience as profound. He lay in a safe, quiet room, feeling a deep, introspective journey unfold. It wasn't just a physical detox; it was a mental and emotional voyage. He revisited past traumas, understood the roots of his addiction, and gained incredible clarity about his life choices. He felt like his brain was being meticulously reorganized, shedding years of addictive patterning. The most astonishing part? The dreaded opioid withdrawal, the agony he’d known so many times, simply didn’t materialize. He felt intense physical sensations, yes, but the debilitating sickness, the bone-deep ache, the restless legs – they were gone.
+
+When he emerged from the acute phase of treatment, the difference was immediate and undeniable. The withdrawal symptoms were absent. The relentless cravings that had dominated his every thought for years were quiet, then gone. It was as if a switch had been flipped. His mind felt clear, calm, and hopeful – a sensation he hadn't experienced in years. Ibogaine works by stimulating the production of GDNF, a potent neurotrophic factor that helps repair damaged dopamine pathways in the brain. It's this upregulation of growth factors that allows for genuine neuroplasticity, essentially rewiring the brain to a pre-addicted state.
+
+Six months have passed since Mark’s treatment. He is completely abstinent, living a life free from opioids and, crucially, free from any maintenance medications. The weight of his addiction has lifted, replaced by a deep sense of peace and gratitude. He's reconnected with Sarah and his children, bringing a newfound presence and honesty to his relationships. He’s back to designing, finding joy and creativity in his work that had been absent for so long. His brain, once trapped in the cycle of dependency, truly hit its hidden reset button, allowing him to break free and rebuild his life, healthier and happier than ever before.
+
+Learn more: https://theibogainstitute.org]]></description>
+      <content:encoded><![CDATA[A twelve-month study found that fifty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That's five times the success rate of traditional rehab programs. This isn't just about managing symptoms; it's about a profound neurological reset that can break the cycle of dependence. Ibogaine therapy has often been called the brain's hidden reset button, offering a way to break free without the need for endless maintenance medications.
+
+That research represents hope for millions seeking true freedom. Today, you'll meet Mark, a man who thought he was destined for a lifetime tethered to medication, but discovered a path to genuine liberation.
+
+Mark, a 45-year-old architect, was a husband and father of two teenagers. From the outside, his life looked perfect. He had a successful career, a beautiful home, and a loving family. But beneath the surface, Mark was battling a secret opioid addiction. It started innocently enough, with prescribed painkillers for a back injury. When the prescriptions ran out, the pain of withdrawal and the insidious grip of addiction led him to street opioids.
+
+His struggle was a silent torment. Each day was a tightrope walk of secrecy, fear of discovery, and the shame that gnawed at his soul. His marriage suffered from his emotional distance, his work felt hollow, and the constant need to acquire drugs drained his finances and his spirit. He lived in a perpetual state of anxiety, always planning his next dose, always afraid of what would happen if he couldn't get it.
+
+Mark had tried everything. He went through traditional rehab programs multiple times, enduring agonizing withdrawals only to relapse weeks or months later. He tried Suboxone, which dulled the cravings but left him feeling numb and dependent on yet another substance. Naltrexone injections offered a physical barrier to getting high, but the underlying psychological pull remained, a constant whisper in his mind. Each attempt felt like a temporary truce, never a victory. He felt trapped, convinced he was doomed to a life on maintenance medications, always just one slip away from falling back into the abyss.
+
+His wife, Sarah, was the one who stumbled upon Iboga Wellness Institute online. Desperate, she researched ibogaine, reading testimonials about a complete neurological reset, a one-time treatment that could free people from addiction’s grasp without requiring ongoing medication. Mark was skeptical, having been burned so many times before, but the idea of a true "reset button" for his brain, a way to reclaim his life entirely, was too compelling to ignore.
+
+The journey to treatment began with a comprehensive medical screening. At Iboga Wellness Institute, safety is paramount. Mark underwent thorough cardiac evaluations, blood tests, and psychological assessments to ensure he was a suitable candidate. He was reassured by the 24/7 medical monitoring and the trained staff who would be with him every step of the way. During the treatment, he received magnesium co-administration, a crucial part of their protocol for cardiac safety.
+
+Mark described the ibogaine experience as profound. He lay in a safe, quiet room, feeling a deep, introspective journey unfold. It wasn't just a physical detox; it was a mental and emotional voyage. He revisited past traumas, understood the roots of his addiction, and gained incredible clarity about his life choices. He felt like his brain was being meticulously reorganized, shedding years of addictive patterning. The most astonishing part? The dreaded opioid withdrawal, the agony he’d known so many times, simply didn’t materialize. He felt intense physical sensations, yes, but the debilitating sickness, the bone-deep ache, the restless legs – they were gone.
+
+When he emerged from the acute phase of treatment, the difference was immediate and undeniable. The withdrawal symptoms were absent. The relentless cravings that had dominated his every thought for years were quiet, then gone. It was as if a switch had been flipped. His mind felt clear, calm, and hopeful – a sensation he hadn't experienced in years. Ibogaine works by stimulating the production of GDNF, a potent neurotrophic factor that helps repair damaged dopamine pathways in the brain. It's this upregulation of growth factors that allows for genuine neuroplasticity, essentially rewiring the brain to a pre-addicted state.
+
+Six months have passed since Mark’s treatment. He is completely abstinent, living a life free from opioids and, crucially, free from any maintenance medications. The weight of his addiction has lifted, replaced by a deep sense of peace and gratitude. He's reconnected with Sarah and his children, bringing a newfound presence and honesty to his relationships. He’s back to designing, finding joy and creativity in his work that had been absent for so long. His brain, once trapped in the cycle of dependency, truly hit its hidden reset button, allowing him to break free and rebuild his life, healthier and happier than ever before.
+
+Learn more: https://theibogainstitute.org]]></content:encoded>
+      <guid isPermaLink="false">TheBrainsHiddenResetButtonBreakingFreeWithoutMaintenanceMeds</guid>
+      <pubDate>Wed, 04 Feb 2026 17:47:11 GMT</pubDate>
+      <enclosure
+        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheBrainsHiddenResetButtonBreakingFreeWithoutMaintenanceMeds.mp3"
+        length="12345678"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  
+    <item>
+      <title><![CDATA[From Opioid Dependency to Complete Freedom in 36 Hours]]></title>
+      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/FromOpioidDependencytoCompleteFreedomin36Hours_Episode_Image.jpeg" />
+      <description><![CDATA[The biggest misconception about addiction treatment is that willpower matters. It doesn't. Opioid dependency isn't a moral failing; it's a profound neurological change that rewires the brain at a molecular level. Every time an opioid is used, it deepens the neural pathways that trap individuals in a cycle of dependence and craving.
+
+Consider the stark reality: A twelve-month study found that traditional rehab programs achieve around a five to ten percent success rate for sustained abstinence from opioids. In contrast, studies on ibogaine treatment show a significant improvement, with thirty to sixty percent of opioid-dependent clients remaining completely abstinent one year after treatment. That's a five-fold increase in successful outcomes. The difference isn't just about managing symptoms; it's about a complete neurological reset.
+
+That research represents hope for millions. Today, you'll hear about Jessica. Her story exemplifies the profound change possible when the brain is truly reset.
+
+Let's hear their story.
+
+Jessica, a vibrant woman in her early forties, had a life that looked perfect on the surface. She was a loving mother to two teenage children, had a fulfilling career as a graphic designer, and a wide circle of friends. But beneath that polished exterior, Jessica was battling a hidden war with opioid dependency. It began innocently enough, with a prescription for pain after a minor car accident. The relief was immediate, not just physically, but emotionally. Soon, the pills became a daily necessity, not for pain, but to ward off the agonizing grip of withdrawal and the relentless mental obsession.
+
+For years, Jessica lived a double life. Her mornings were a frantic race to secure her supply before the tremors and nausea set in. Her days were spent meticulously planning her next dose, always calculating, always hiding. She tried to quit countless times. She went to multiple 12-step programs, saw therapists, and even tried medication-assisted treatments like Suboxone. While Suboxone provided a temporary reprieve from acute withdrawal, its 36-hour half-life meant she was simply exchanging one dependency for another, constantly maintained at a steady state but never truly free from the underlying cravings or the feeling of being tethered to a substance. Each attempt to taper off left her feeling hopeless, the physical and psychological pull of the opioids too strong to overcome. Her life was shrinking, her once-bright spirit dulled by the constant shadow of her dependency. She felt like a prisoner in her own body, constantly battling a part of herself that she no longer recognized.
+
+Desperate for a solution that didn't involve a lifetime of medication or endless cycles of relapse, Jessica began researching alternative treatments. She stumbled upon stories of ibogaine, a plant medicine that promised a complete neurological reset rather than mere symptom management. The concept sounded almost too good to be true, yet the scientific explanations about neuroplasticity and brain repair resonated deeply with her. She learned about how ibogaine upregulates GDNF and BDNF, proteins that actively repair damaged dopamine circuits and foster new neural connections, essentially "resetting" the brain to its pre-addiction state. It wasn't about willpower; it was about healing the brain itself.
+
+After extensive research and a thorough medical evaluation, Jessica decided to come to the Iboga Wellness Institute. Her treatment experience was unlike anything she had ever encountered in traditional rehab settings. From the moment she arrived, she felt safe and supported. The process was meticulously medically supervised, with a team of healthcare professionals conducting 24/7 cardiac monitoring and administering essential co-treatments like magnesium to ensure her safety. She lay in a comfortable, quiet room, feeling a profound shift begin within hours. The physical agony of withdrawal, which she had dreaded so intensely, simply melted away. In less than 24 hours, the intense physical symptoms were gone, and the relentless mental chatter of cravings that had plagued her for years was silenced. She describes it as a deep, transformative journey that allowed her to confront past traumas and gain incredible insights, but without the physical suffering she had always associated with detox.
+
+The change in Jessica was almost immediate and profound. The physical withdrawal symptoms she had always experienced when trying to stop using opioids were completely eliminated within 36 hours of her treatment beginning. More importantly, the mental obsession, the relentless pull of cravings, was gone. She felt a clarity of mind she hadn't experienced in over a decade. Her energy returned, her eyes sparkled, and for the first time in years, she felt truly present. Within a week, she was sleeping soundly, eating nourishing meals, and engaging in conversations with a newfound sense of peace.
+
+Today, six months later, Jessica is thriving. She has reconnected with her children in a way she never thought possible, their relationship healed and strengthened by her authentic presence. She has resumed her creative work with passion, finding joy in her designs once again. She speaks of a profound sense of freedom – not just from opioids, but from the fear and shame that had governed her life. Jessica's story is a testament to the power of a single, comprehensive treatment that addresses the root cause of opioid dependency, offering a neurological reset that allows individuals to reclaim their lives.
+
+Learn more: https://theibogainstitute.org]]></description>
+      <content:encoded><![CDATA[The biggest misconception about addiction treatment is that willpower matters. It doesn't. Opioid dependency isn't a moral failing; it's a profound neurological change that rewires the brain at a molecular level. Every time an opioid is used, it deepens the neural pathways that trap individuals in a cycle of dependence and craving.
+
+Consider the stark reality: A twelve-month study found that traditional rehab programs achieve around a five to ten percent success rate for sustained abstinence from opioids. In contrast, studies on ibogaine treatment show a significant improvement, with thirty to sixty percent of opioid-dependent clients remaining completely abstinent one year after treatment. That's a five-fold increase in successful outcomes. The difference isn't just about managing symptoms; it's about a complete neurological reset.
+
+That research represents hope for millions. Today, you'll hear about Jessica. Her story exemplifies the profound change possible when the brain is truly reset.
+
+Let's hear their story.
+
+Jessica, a vibrant woman in her early forties, had a life that looked perfect on the surface. She was a loving mother to two teenage children, had a fulfilling career as a graphic designer, and a wide circle of friends. But beneath that polished exterior, Jessica was battling a hidden war with opioid dependency. It began innocently enough, with a prescription for pain after a minor car accident. The relief was immediate, not just physically, but emotionally. Soon, the pills became a daily necessity, not for pain, but to ward off the agonizing grip of withdrawal and the relentless mental obsession.
+
+For years, Jessica lived a double life. Her mornings were a frantic race to secure her supply before the tremors and nausea set in. Her days were spent meticulously planning her next dose, always calculating, always hiding. She tried to quit countless times. She went to multiple 12-step programs, saw therapists, and even tried medication-assisted treatments like Suboxone. While Suboxone provided a temporary reprieve from acute withdrawal, its 36-hour half-life meant she was simply exchanging one dependency for another, constantly maintained at a steady state but never truly free from the underlying cravings or the feeling of being tethered to a substance. Each attempt to taper off left her feeling hopeless, the physical and psychological pull of the opioids too strong to overcome. Her life was shrinking, her once-bright spirit dulled by the constant shadow of her dependency. She felt like a prisoner in her own body, constantly battling a part of herself that she no longer recognized.
+
+Desperate for a solution that didn't involve a lifetime of medication or endless cycles of relapse, Jessica began researching alternative treatments. She stumbled upon stories of ibogaine, a plant medicine that promised a complete neurological reset rather than mere symptom management. The concept sounded almost too good to be true, yet the scientific explanations about neuroplasticity and brain repair resonated deeply with her. She learned about how ibogaine upregulates GDNF and BDNF, proteins that actively repair damaged dopamine circuits and foster new neural connections, essentially "resetting" the brain to its pre-addiction state. It wasn't about willpower; it was about healing the brain itself.
+
+After extensive research and a thorough medical evaluation, Jessica decided to come to the Iboga Wellness Institute. Her treatment experience was unlike anything she had ever encountered in traditional rehab settings. From the moment she arrived, she felt safe and supported. The process was meticulously medically supervised, with a team of healthcare professionals conducting 24/7 cardiac monitoring and administering essential co-treatments like magnesium to ensure her safety. She lay in a comfortable, quiet room, feeling a profound shift begin within hours. The physical agony of withdrawal, which she had dreaded so intensely, simply melted away. In less than 24 hours, the intense physical symptoms were gone, and the relentless mental chatter of cravings that had plagued her for years was silenced. She describes it as a deep, transformative journey that allowed her to confront past traumas and gain incredible insights, but without the physical suffering she had always associated with detox.
+
+The change in Jessica was almost immediate and profound. The physical withdrawal symptoms she had always experienced when trying to stop using opioids were completely eliminated within 36 hours of her treatment beginning. More importantly, the mental obsession, the relentless pull of cravings, was gone. She felt a clarity of mind she hadn't experienced in over a decade. Her energy returned, her eyes sparkled, and for the first time in years, she felt truly present. Within a week, she was sleeping soundly, eating nourishing meals, and engaging in conversations with a newfound sense of peace.
+
+Today, six months later, Jessica is thriving. She has reconnected with her children in a way she never thought possible, their relationship healed and strengthened by her authentic presence. She has resumed her creative work with passion, finding joy in her designs once again. She speaks of a profound sense of freedom – not just from opioids, but from the fear and shame that had governed her life. Jessica's story is a testament to the power of a single, comprehensive treatment that addresses the root cause of opioid dependency, offering a neurological reset that allows individuals to reclaim their lives.
+
+Learn more: https://theibogainstitute.org]]></content:encoded>
+      <guid isPermaLink="false">FromOpioidDependencytoCompleteFreedomin36Hours</guid>
+      <pubDate>Wed, 04 Feb 2026 18:04:39 GMT</pubDate>
+      <enclosure
+        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/FromOpioidDependencytoCompleteFreedomin36Hours.mp3"
+        length="12345678"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  
+    <item>
+      <title><![CDATA[Ending the Cycle: How Ibogaine Eliminates Cravings at the Cellular Level]]></title>
+      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/EndingtheCycleHowIbogaineEliminatesCravingsattheCellularLevel_Episode_Image.jpeg" />
+      <description><![CDATA[Ibogaine stands out in addiction treatment because it addresses the root cause: brain chemistry. Studies show it can eliminate up to 95% of acute opioid withdrawal symptoms, often within the first 24 hours. This isn't just managing discomfort; it's a neurological reset that dramatically interrupts the cycle of addiction, preventing the agonizing symptoms that so often derail recovery.
+
+This profound neurological transformation represents a new chapter of hope for many, just like it did for our client, Mark.
+
+Mark spent over a decade battling an opioid dependency, feeling trapped by relentless cravings and the fear of withdrawal. He tried everything conventional medicine offered, only to find temporary relief.
+
+Let's hear their story.
+
+Mark, a 38-year-old former construction worker from Arizona, had a vibrant spirit dimmed by addiction. He was a loving father and husband, but his dependency on painkillers had slowly eroded his life, leaving him feeling isolated and ashamed.
+
+Mark's struggle began innocently enough after a severe back injury at age 25. He was prescribed opioids for pain, and what started as relief quickly spiraled into dependence. For twelve years, his days revolved around managing his pain and avoiding the agonizing onset of withdrawal. He described the cravings as a constant, overwhelming force in his mind, dictating his every move. The physical symptoms—the shakes, the nausea, the bone-deep ache—were a nightmare he lived in constant fear of. He lost his job, his savings dwindled, and his relationships with his wife, Sarah, and their two young children became strained. He felt like a ghost in his own home, present but unable to fully engage.
+
+Mark had been through multiple cycles of conventional treatment. He'd tried outpatient therapy, residential rehab programs, and even Suboxone maintenance. Each time, he'd find temporary sobriety, sometimes lasting a few months, but the underlying cravings would always resurface with an intensity that felt impossible to resist. The withdrawal process during detox was so debilitating that the fear of it alone became a major barrier to seeking help again. He'd tell Sarah, "It feels like my brain just won't let go. I'm trying, but it's like a part of me is fighting against myself." He felt utterly defeated by the revolving door of relapse.
+
+Sarah, desperate to find a solution, began researching alternative treatments. She stumbled upon testimonials online about ibogaine, describing it as a "reset button" for the brain. The idea that a single treatment could potentially eliminate withdrawal and cravings seemed almost too good to be true, but the stories of profound, lasting change resonated with her. She shared the information with Mark, who, though skeptical after so many failures, felt a glimmer of hope. They spent weeks researching Iboga Wellness Institute, delving into our comprehensive medical protocols and the science behind ibogaine’s neuroplastic effects. The emphasis on safety, 24/7 medical supervision, and cardiac monitoring reassured them both.
+
+After thorough medical screening, Mark traveled to the Iboga Wellness Institute. He was apprehensive, but the compassionate staff immediately put him at ease. The treatment itself, he described as intense, yet profoundly transformative. He experienced a deep, introspective journey, confronting past traumas and gaining new perspectives on his addiction. What amazed him most was the near-complete absence of withdrawal symptoms. He expected the intense physical agony he'd known from previous detoxes, but it simply wasn't there. Within 24 hours of treatment, his body felt calm, and the relentless, gnawing cravings that had haunted him for over a decade were simply gone. It was, as he put it, "like someone finally turned off the noise in my head." This is a key aspect of how ibogaine works: it doesn't just block withdrawal; it fundamentally resets the brain's opioid and dopamine receptors, which are responsible for both withdrawal and cravings. This neurological reset creates a window of opportunity for profound healing without the immediate physical torment.
+
+The changes in Mark were immediate and profound. The acute withdrawal symptoms, which had scored a 30 out of 40 on his previous detox attempts, dropped to a mere 1.5 after his ibogaine session. The intense cravings, which previously dominated his thoughts, were simply absent. He reported feeling a clarity he hadn't experienced in years. In the days following treatment, he engaged enthusiastically with the therapeutic support, embracing the opportunity to rebuild his life without the constant pull of addiction. His sleep patterns normalized, his appetite returned, and he started to feel physically stronger. Most importantly, he felt an unprecedented sense of peace and a renewed connection to himself.
+
+It's been over a year since Mark’s treatment at Iboga Wellness Institute. He is back at his construction job, fully engaged and thriving. His relationship with Sarah has healed, and he’s an active, present father to his children. He describes himself as feeling "reborn." Mark's story isn't unique; we see similar transformations in many clients. His journey highlights how ibogaine, under expert medical supervision, offers a unique path to recovery by interrupting addiction at a cellular level, allowing individuals to truly move forward, free from the cycle of craving and withdrawal. This approach fosters a deep, sustained healing, demonstrating that while addiction may rewire the brain, ibogaine offers a powerful way to reset it.
+
+Learn more: https://theibogainstitute.org]]></description>
+      <content:encoded><![CDATA[Ibogaine stands out in addiction treatment because it addresses the root cause: brain chemistry. Studies show it can eliminate up to 95% of acute opioid withdrawal symptoms, often within the first 24 hours. This isn't just managing discomfort; it's a neurological reset that dramatically interrupts the cycle of addiction, preventing the agonizing symptoms that so often derail recovery.
+
+This profound neurological transformation represents a new chapter of hope for many, just like it did for our client, Mark.
+
+Mark spent over a decade battling an opioid dependency, feeling trapped by relentless cravings and the fear of withdrawal. He tried everything conventional medicine offered, only to find temporary relief.
+
+Let's hear their story.
+
+Mark, a 38-year-old former construction worker from Arizona, had a vibrant spirit dimmed by addiction. He was a loving father and husband, but his dependency on painkillers had slowly eroded his life, leaving him feeling isolated and ashamed.
+
+Mark's struggle began innocently enough after a severe back injury at age 25. He was prescribed opioids for pain, and what started as relief quickly spiraled into dependence. For twelve years, his days revolved around managing his pain and avoiding the agonizing onset of withdrawal. He described the cravings as a constant, overwhelming force in his mind, dictating his every move. The physical symptoms—the shakes, the nausea, the bone-deep ache—were a nightmare he lived in constant fear of. He lost his job, his savings dwindled, and his relationships with his wife, Sarah, and their two young children became strained. He felt like a ghost in his own home, present but unable to fully engage.
+
+Mark had been through multiple cycles of conventional treatment. He'd tried outpatient therapy, residential rehab programs, and even Suboxone maintenance. Each time, he'd find temporary sobriety, sometimes lasting a few months, but the underlying cravings would always resurface with an intensity that felt impossible to resist. The withdrawal process during detox was so debilitating that the fear of it alone became a major barrier to seeking help again. He'd tell Sarah, "It feels like my brain just won't let go. I'm trying, but it's like a part of me is fighting against myself." He felt utterly defeated by the revolving door of relapse.
+
+Sarah, desperate to find a solution, began researching alternative treatments. She stumbled upon testimonials online about ibogaine, describing it as a "reset button" for the brain. The idea that a single treatment could potentially eliminate withdrawal and cravings seemed almost too good to be true, but the stories of profound, lasting change resonated with her. She shared the information with Mark, who, though skeptical after so many failures, felt a glimmer of hope. They spent weeks researching Iboga Wellness Institute, delving into our comprehensive medical protocols and the science behind ibogaine’s neuroplastic effects. The emphasis on safety, 24/7 medical supervision, and cardiac monitoring reassured them both.
+
+After thorough medical screening, Mark traveled to the Iboga Wellness Institute. He was apprehensive, but the compassionate staff immediately put him at ease. The treatment itself, he described as intense, yet profoundly transformative. He experienced a deep, introspective journey, confronting past traumas and gaining new perspectives on his addiction. What amazed him most was the near-complete absence of withdrawal symptoms. He expected the intense physical agony he'd known from previous detoxes, but it simply wasn't there. Within 24 hours of treatment, his body felt calm, and the relentless, gnawing cravings that had haunted him for over a decade were simply gone. It was, as he put it, "like someone finally turned off the noise in my head." This is a key aspect of how ibogaine works: it doesn't just block withdrawal; it fundamentally resets the brain's opioid and dopamine receptors, which are responsible for both withdrawal and cravings. This neurological reset creates a window of opportunity for profound healing without the immediate physical torment.
+
+The changes in Mark were immediate and profound. The acute withdrawal symptoms, which had scored a 30 out of 40 on his previous detox attempts, dropped to a mere 1.5 after his ibogaine session. The intense cravings, which previously dominated his thoughts, were simply absent. He reported feeling a clarity he hadn't experienced in years. In the days following treatment, he engaged enthusiastically with the therapeutic support, embracing the opportunity to rebuild his life without the constant pull of addiction. His sleep patterns normalized, his appetite returned, and he started to feel physically stronger. Most importantly, he felt an unprecedented sense of peace and a renewed connection to himself.
+
+It's been over a year since Mark’s treatment at Iboga Wellness Institute. He is back at his construction job, fully engaged and thriving. His relationship with Sarah has healed, and he’s an active, present father to his children. He describes himself as feeling "reborn." Mark's story isn't unique; we see similar transformations in many clients. His journey highlights how ibogaine, under expert medical supervision, offers a unique path to recovery by interrupting addiction at a cellular level, allowing individuals to truly move forward, free from the cycle of craving and withdrawal. This approach fosters a deep, sustained healing, demonstrating that while addiction may rewire the brain, ibogaine offers a powerful way to reset it.
+
+Learn more: https://theibogainstitute.org]]></content:encoded>
+      <guid isPermaLink="false">EndingtheCycleHowIbogaineEliminatesCravingsattheCellularLevel</guid>
+      <pubDate>Wed, 04 Feb 2026 18:19:36 GMT</pubDate>
+      <enclosure
+        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/EndingtheCycleHowIbogaineEliminatesCravingsattheCellularLevel.mp3"
+        length="12345678"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  
+    <item>
+      <title><![CDATA[When Willpower Isn't Enough—The Neuroscience of Lasting Sobriety]]></title>
+      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/WhenWillpowerIsntEnoughTheNeuroscienceofLastingSobriety_Episode_Image.jpeg" />
+      <description><![CDATA[Stanford University research demonstrates a significant breakthrough in addiction treatment: thirty to sixty percent of opioid-dependent clients achieved sustained abstinence at twelve months following ibogaine therapy. This far surpasses the typical five to ten percent success rates often seen with conventional rehab programs, highlighting a crucial difference in approach.
+
+That research represents hope for millions caught in the grip of addiction, struggling with the misconception that willpower alone is enough to break free. Today, you'll meet Michael, whose decade-long battle with addiction perfectly illustrates why true healing requires more than just strength of mind.
+
+Michael spent years caught in a cycle he desperately wanted to escape, but felt utterly powerless to change. His story reveals the profound neurological shift ibogaine can provide when willpower simply isn't enough.
+
+Let's hear their story.
+
+Michael, a vibrant 45-year-old, built a successful career in real estate and cherished his role as a husband and father of two. From the outside, he seemed to have it all, but beneath the surface, a private struggle with opioid addiction was slowly eroding his life. It started innocently enough, a prescription for pain after a serious back injury. But as the pain subsided, the dependence grew, escalating over ten years into a daily, consuming habit.
+
+His struggle wasn't for lack of effort. Michael tried everything he thought he was "supposed" to do. He went to multiple 30-day rehabs, attended countless NA and AA meetings, and saw therapists who helped him explore the psychological roots of his addiction. Each time, he went in with genuine hope and a fierce determination to quit. He’d commit fully, promising his family, and himself, that this time would be different. But the intense cravings, the debilitating withdrawal symptoms, and the sheer neurological pull of the drug always dragged him back. His willpower, no matter how strong, couldn't overcome the fundamental changes that had occurred in his brain. He felt like a failure, constantly battling himself and losing, convinced there was something inherently wrong with him because he couldn't just "choose" to stop. He described it as his brain being stuck in a survival mode, demanding the drug, no matter the consequences. His prefrontal cortex, the part responsible for decision-making and impulse control, was simply overwhelmed by the deeply entrenched addiction pathways.
+
+Desperation led him to search beyond conventional methods. He was at his lowest point, his business suffering, his marriage strained, and his connection with his children weakening. He stumbled upon an online forum discussing ibogaine. Skeptical but intrigued, he began researching Iboga Wellness Institute. He learned about the comprehensive medical screening, the 24/7 cardiac monitoring, and the magnesium co-administration protocols that made the treatment safe. What truly resonated was the focus on a neurological reset, not just symptom management. It offered a different paradigm, one that acknowledged the scientific reality of addiction as a brain disease, not a moral failing.
+
+Michael arrived at the institute with a mix of fear and a fragile hope. The treatment itself was unlike anything he’d experienced. Under constant medical supervision, the ibogaine began its work. He describes it as a deep, introspective journey, almost like a waking dream, where he confronted aspects of his past and gained profound clarity. But the most remarkable change happened physically. Within 24 hours, the agonizing withdrawal symptoms he dreaded so much were gone. His body felt calm, the intense, insatiable cravings that had plagued him for a decade were silenced.
+
+The change wasn't just the absence of withdrawal. Ibogaine works by upregulating GDNF and BDNF, two powerful neurotrophic factors. GDNF, Glial Cell Line-Derived Neurotrophic Factor, helps to repair and regenerate dopamine neurons, essentially restoring the brain's reward system to a pre-addicted state. BDNF, Brain-Derived Neurotrophic Factor, supports neuroplasticity, allowing the brain to form new, healthier neural pathways. For Michael, this translated into a profound sense of clarity and emotional balance he hadn't felt in years. He felt like his brain had been wiped clean, the slate reset, finally free from the constant noise and compulsion of addiction.
+
+Today, eighteen months later, Michael is sober and thriving. He's not just abstinent; he's truly living free. His relationships with his wife and children have been fully restored. He’s re-engaged with his business, bringing a renewed focus and energy to his work. He’s even found new passions, exploring hiking and photography, things he never had the mental or emotional space for before. He often reflects on how conventional treatments, while well-intentioned, couldn't address the neurological root of his problem. His story is a testament that while willpower has its place, it's the neurological transformation offered by treatments like ibogaine that creates the foundation for lasting sobriety and a life of genuine freedom.
+
+Learn more: https://theibogainstitute.org]]></description>
+      <content:encoded><![CDATA[Stanford University research demonstrates a significant breakthrough in addiction treatment: thirty to sixty percent of opioid-dependent clients achieved sustained abstinence at twelve months following ibogaine therapy. This far surpasses the typical five to ten percent success rates often seen with conventional rehab programs, highlighting a crucial difference in approach.
+
+That research represents hope for millions caught in the grip of addiction, struggling with the misconception that willpower alone is enough to break free. Today, you'll meet Michael, whose decade-long battle with addiction perfectly illustrates why true healing requires more than just strength of mind.
+
+Michael spent years caught in a cycle he desperately wanted to escape, but felt utterly powerless to change. His story reveals the profound neurological shift ibogaine can provide when willpower simply isn't enough.
+
+Let's hear their story.
+
+Michael, a vibrant 45-year-old, built a successful career in real estate and cherished his role as a husband and father of two. From the outside, he seemed to have it all, but beneath the surface, a private struggle with opioid addiction was slowly eroding his life. It started innocently enough, a prescription for pain after a serious back injury. But as the pain subsided, the dependence grew, escalating over ten years into a daily, consuming habit.
+
+His struggle wasn't for lack of effort. Michael tried everything he thought he was "supposed" to do. He went to multiple 30-day rehabs, attended countless NA and AA meetings, and saw therapists who helped him explore the psychological roots of his addiction. Each time, he went in with genuine hope and a fierce determination to quit. He’d commit fully, promising his family, and himself, that this time would be different. But the intense cravings, the debilitating withdrawal symptoms, and the sheer neurological pull of the drug always dragged him back. His willpower, no matter how strong, couldn't overcome the fundamental changes that had occurred in his brain. He felt like a failure, constantly battling himself and losing, convinced there was something inherently wrong with him because he couldn't just "choose" to stop. He described it as his brain being stuck in a survival mode, demanding the drug, no matter the consequences. His prefrontal cortex, the part responsible for decision-making and impulse control, was simply overwhelmed by the deeply entrenched addiction pathways.
+
+Desperation led him to search beyond conventional methods. He was at his lowest point, his business suffering, his marriage strained, and his connection with his children weakening. He stumbled upon an online forum discussing ibogaine. Skeptical but intrigued, he began researching Iboga Wellness Institute. He learned about the comprehensive medical screening, the 24/7 cardiac monitoring, and the magnesium co-administration protocols that made the treatment safe. What truly resonated was the focus on a neurological reset, not just symptom management. It offered a different paradigm, one that acknowledged the scientific reality of addiction as a brain disease, not a moral failing.
+
+Michael arrived at the institute with a mix of fear and a fragile hope. The treatment itself was unlike anything he’d experienced. Under constant medical supervision, the ibogaine began its work. He describes it as a deep, introspective journey, almost like a waking dream, where he confronted aspects of his past and gained profound clarity. But the most remarkable change happened physically. Within 24 hours, the agonizing withdrawal symptoms he dreaded so much were gone. His body felt calm, the intense, insatiable cravings that had plagued him for a decade were silenced.
+
+The change wasn't just the absence of withdrawal. Ibogaine works by upregulating GDNF and BDNF, two powerful neurotrophic factors. GDNF, Glial Cell Line-Derived Neurotrophic Factor, helps to repair and regenerate dopamine neurons, essentially restoring the brain's reward system to a pre-addicted state. BDNF, Brain-Derived Neurotrophic Factor, supports neuroplasticity, allowing the brain to form new, healthier neural pathways. For Michael, this translated into a profound sense of clarity and emotional balance he hadn't felt in years. He felt like his brain had been wiped clean, the slate reset, finally free from the constant noise and compulsion of addiction.
+
+Today, eighteen months later, Michael is sober and thriving. He's not just abstinent; he's truly living free. His relationships with his wife and children have been fully restored. He’s re-engaged with his business, bringing a renewed focus and energy to his work. He’s even found new passions, exploring hiking and photography, things he never had the mental or emotional space for before. He often reflects on how conventional treatments, while well-intentioned, couldn't address the neurological root of his problem. His story is a testament that while willpower has its place, it's the neurological transformation offered by treatments like ibogaine that creates the foundation for lasting sobriety and a life of genuine freedom.
+
+Learn more: https://theibogainstitute.org]]></content:encoded>
+      <guid isPermaLink="false">WhenWillpowerIsntEnoughTheNeuroscienceofLastingSobriety</guid>
+      <pubDate>Wed, 04 Feb 2026 18:28:36 GMT</pubDate>
+      <enclosure
+        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/WhenWillpowerIsntEnoughTheNeuroscienceofLastingSobriety.mp3"
+        length="12345678"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  
+    <item>
+      <title><![CDATA[The Flood Dose Explained: What Happens During Ibogaine Treatment]]></title>
+      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheFloodDoseExplainedWhatHappensDuringIbogaineTreatment_Episode_Image.jpeg" />
+      <description><![CDATA[A twelve-month study found that thirty to sixty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That's a significantly higher success rate than many traditional rehab programs, which often see rates in the single digits. This profound transformation is often catalyzed by what we call a "flood dose" of ibogaine.
+
+That remarkable outcome is often the result of a single, powerful experience. Today, you'll hear about Maria, who found her breakthrough with this unique approach.
+
+Maria was caught in a cycle of addiction, feeling hopeless after years of trying everything. Her journey through the ibogaine flood dose offers a powerful glimpse into its transformative potential.
+
+Let's hear their story.
+
+Maria, a vibrant woman in her mid-30s, had always been incredibly private, especially about her struggles. On the outside, she was a successful marketing professional, juggling deadlines and client meetings with ease. But beneath that composed exterior lay a deep secret: a seven-year battle with opioid dependency. It started subtly, a prescription for pain after a minor surgery, but soon escalated, consuming her life.
+
+Every morning began with a negotiation – how to get through the day without withdrawal setting in, how to hide the physical symptoms and the gnawing cravings. She felt enslaved, living a double life that chipped away at her soul. The joy she once found in her work and relationships was overshadowed by the constant need to feed her dependency. She tried to quit countless times, enduring agonizing detoxes that never truly stuck.
+
+Maria had been through multiple rehabilitation programs, spent weeks in conventional detox facilities, and tried various therapeutic approaches. She'd been on Suboxone for a period, which only felt like substituting one dependency for another, never truly freeing her from the mental and physical grip of addiction. Each attempt left her more disheartened, convinced that nothing would ever work.
+
+In a moment of profound despair, after another failed attempt to get clean, Maria stumbled upon information about ibogaine online. She was skeptical, having been let down so many times before, but something about the idea of a "neurological reset" resonated with her. The testimonials spoke of clients leaving treatment without the debilitating withdrawal or crushing cravings she knew so well. It sounded almost too good to be true, but the scientific explanations about brain chemistry offered a glimmer of hope she hadn't felt in years. She researched Iboga Wellness Institute extensively, drawn by their emphasis on medical supervision and client safety, and finally made the call.
+
+Her journey at the Institute began with a thorough medical screening. This is crucial because a flood dose, while incredibly effective, is a serious medical procedure. Every client undergoes comprehensive cardiac surveillance and is monitored 24/7. After an initial test dose to ensure her body reacted well, Maria was ready for the main event: the ibogaine flood dose itself. This involved taking a carefully calculated, larger quantity of ibogaine under constant medical supervision in a controlled environment. The experience typically lasts between 12 and 36 hours.
+
+Maria describes it as an intensely introspective journey. It wasn't a recreational "trip" in the way some might imagine. Instead, she experienced vivid, dream-like states, almost like a waking dream. She found herself revisiting past traumas and deeply buried emotions, but from a detached, observing perspective. It was as if her subconscious was being gently unpacked, allowing her to process years of pain and understand the root causes of her addiction without the overwhelming emotional charge that usually accompanied those memories. All the while, the expert medical team was present, monitoring her vital signs and ensuring her safety. The co-administration of magnesium, a key part of the protocol, helps protect the heart during the process.
+
+The most astonishing part for Maria was what happened in the hours after the flood dose. The debilitating withdrawal symptoms she dreaded, the ones that had tormented her during every previous detox attempt, simply weren't there. Her body felt heavy and tired – a feeling often referred to as the "Gray Day" – but the excruciating pain, the restless legs, the profound nausea and anxiety were gone. This initial post-flood period is usually marked by a mix of relief, calm, and heightened sensitivity, requiring significant rest and integration.
+
+What changed for Maria was nothing short of miraculous for her. Within 24 hours of the flood dose, the intensity of her withdrawal symptoms, which she had rated as a 30 out of 40 before treatment, had plummeted to a mere 1.3. The constant, nagging cravings that had ruled her life vanished. She describes a profound sense of peace and clarity she hadn't felt since before her addiction began. It was as if her brain had been completely reset, allowing her to see herself and her life with fresh eyes. This is the neuroplasticity at work, the ibogaine stimulating proteins like GDNF and BDNF that help repair damaged dopamine circuits and literally rewire the brain.
+
+Today, Maria is 18 months clean and thriving. She's reconnected with her family, built stronger relationships, and found new passion in her work. The daily struggle that once defined her is now a distant memory. She lives a life free from the burden of dependency, experiencing joy and purpose that she once thought were lost forever. Her transformation stands as a testament to the power of a single treatment session creating lasting neurological change.
+
+Learn more: https://theibogainstitute.org]]></description>
+      <content:encoded><![CDATA[A twelve-month study found that thirty to sixty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That's a significantly higher success rate than many traditional rehab programs, which often see rates in the single digits. This profound transformation is often catalyzed by what we call a "flood dose" of ibogaine.
+
+That remarkable outcome is often the result of a single, powerful experience. Today, you'll hear about Maria, who found her breakthrough with this unique approach.
+
+Maria was caught in a cycle of addiction, feeling hopeless after years of trying everything. Her journey through the ibogaine flood dose offers a powerful glimpse into its transformative potential.
+
+Let's hear their story.
+
+Maria, a vibrant woman in her mid-30s, had always been incredibly private, especially about her struggles. On the outside, she was a successful marketing professional, juggling deadlines and client meetings with ease. But beneath that composed exterior lay a deep secret: a seven-year battle with opioid dependency. It started subtly, a prescription for pain after a minor surgery, but soon escalated, consuming her life.
+
+Every morning began with a negotiation – how to get through the day without withdrawal setting in, how to hide the physical symptoms and the gnawing cravings. She felt enslaved, living a double life that chipped away at her soul. The joy she once found in her work and relationships was overshadowed by the constant need to feed her dependency. She tried to quit countless times, enduring agonizing detoxes that never truly stuck.
+
+Maria had been through multiple rehabilitation programs, spent weeks in conventional detox facilities, and tried various therapeutic approaches. She'd been on Suboxone for a period, which only felt like substituting one dependency for another, never truly freeing her from the mental and physical grip of addiction. Each attempt left her more disheartened, convinced that nothing would ever work.
+
+In a moment of profound despair, after another failed attempt to get clean, Maria stumbled upon information about ibogaine online. She was skeptical, having been let down so many times before, but something about the idea of a "neurological reset" resonated with her. The testimonials spoke of clients leaving treatment without the debilitating withdrawal or crushing cravings she knew so well. It sounded almost too good to be true, but the scientific explanations about brain chemistry offered a glimmer of hope she hadn't felt in years. She researched Iboga Wellness Institute extensively, drawn by their emphasis on medical supervision and client safety, and finally made the call.
+
+Her journey at the Institute began with a thorough medical screening. This is crucial because a flood dose, while incredibly effective, is a serious medical procedure. Every client undergoes comprehensive cardiac surveillance and is monitored 24/7. After an initial test dose to ensure her body reacted well, Maria was ready for the main event: the ibogaine flood dose itself. This involved taking a carefully calculated, larger quantity of ibogaine under constant medical supervision in a controlled environment. The experience typically lasts between 12 and 36 hours.
+
+Maria describes it as an intensely introspective journey. It wasn't a recreational "trip" in the way some might imagine. Instead, she experienced vivid, dream-like states, almost like a waking dream. She found herself revisiting past traumas and deeply buried emotions, but from a detached, observing perspective. It was as if her subconscious was being gently unpacked, allowing her to process years of pain and understand the root causes of her addiction without the overwhelming emotional charge that usually accompanied those memories. All the while, the expert medical team was present, monitoring her vital signs and ensuring her safety. The co-administration of magnesium, a key part of the protocol, helps protect the heart during the process.
+
+The most astonishing part for Maria was what happened in the hours after the flood dose. The debilitating withdrawal symptoms she dreaded, the ones that had tormented her during every previous detox attempt, simply weren't there. Her body felt heavy and tired – a feeling often referred to as the "Gray Day" – but the excruciating pain, the restless legs, the profound nausea and anxiety were gone. This initial post-flood period is usually marked by a mix of relief, calm, and heightened sensitivity, requiring significant rest and integration.
+
+What changed for Maria was nothing short of miraculous for her. Within 24 hours of the flood dose, the intensity of her withdrawal symptoms, which she had rated as a 30 out of 40 before treatment, had plummeted to a mere 1.3. The constant, nagging cravings that had ruled her life vanished. She describes a profound sense of peace and clarity she hadn't felt since before her addiction began. It was as if her brain had been completely reset, allowing her to see herself and her life with fresh eyes. This is the neuroplasticity at work, the ibogaine stimulating proteins like GDNF and BDNF that help repair damaged dopamine circuits and literally rewire the brain.
+
+Today, Maria is 18 months clean and thriving. She's reconnected with her family, built stronger relationships, and found new passion in her work. The daily struggle that once defined her is now a distant memory. She lives a life free from the burden of dependency, experiencing joy and purpose that she once thought were lost forever. Her transformation stands as a testament to the power of a single treatment session creating lasting neurological change.
+
+Learn more: https://theibogainstitute.org]]></content:encoded>
+      <guid isPermaLink="false">TheFloodDoseExplainedWhatHappensDuringIbogaineTreatment</guid>
+      <pubDate>Wed, 04 Feb 2026 18:52:47 GMT</pubDate>
+      <enclosure
+        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheFloodDoseExplainedWhatHappensDuringIbogaineTreatment.mp3"
+        length="12345678"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  
+    <item>
+      <title><![CDATA[After the Flood—Integration and the Path to Lasting Transformation]]></title>
+      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/AftertheFloodIntegrationandthePathtoLastingTransformation_Episode_Image.jpeg" />
+      <description><![CDATA[Scientific understanding of ibogaine consistently points to its unique capacity to induce a profound neurological reset, essentially clearing old, entrenched patterns in the brain. This isn't just symptom management; it's a recalibration that opens an incredible window for healing. However, this powerful reset is only the beginning. The science also tells us that this window of heightened neuroplasticity, while transformative, requires conscious and sustained effort—what we call integration—to build new, healthy neural pathways and ensure lasting transformation.
+
+This understanding of the "after the reset" journey is crucial, and it perfectly illustrates the experience of our client, Clara.
+
+Clara had navigated the intense iboga experience, finding clarity she hadn't known in years. But then came the challenging, yet ultimately rewarding, period of making that clarity stick.
+
+Clara, a 42-year-old former marketing executive, had been struggling with a deeply ingrained pattern of anxiety and self-sabotage for over two decades. Her professional life was a constant cycle of high achievement followed by burnout, and her personal relationships often felt strained by her underlying unease. She described it as constantly living under a grey cloud, unable to fully enjoy moments even when things were going well.
+
+Before discovering ibogaine, Clara had tried everything from various talk therapies—Cognitive Behavioral Therapy, EMDR—to medication, meditation retreats, and even lifestyle overhauls like strict diets and intense exercise regimens. Each offered some temporary relief, a brief clearing in the clouds, but the underlying patterns always seemed to resurface, pulling her back into familiar cycles of stress and self-criticism. It was like patching a leaky roof, only for new leaks to appear elsewhere. Nothing addressed the fundamental architecture of her internal struggle. She realized she needed something that could truly dismantle the old structure, not just mend the cracks.
+
+Her search for deeper healing led her to Iboga Wellness Institute, where she underwent her ibogaine treatment, carefully monitored by our medical team, ensuring her safety and comfort throughout the profound experience. She described the iboga journey itself as a powerful, purifying flood, washing away years of accumulated emotional debris. The intensity was undeniable, but the clarity that emerged on the other side was breathtaking. For the first time in her adult life, she felt truly calm, unburdened, and present. The grey cloud had lifted.
+
+However, the experience of a powerful ibogaine treatment is often compared to clearing a dense forest. The old growth is gone, creating fertile ground, but it's still an open space. It's empty. That's where integration becomes vital. For Clara, the real work began not in the peak of the iboga experience, but in the weeks and months that followed. She understood that while ibogaine had reset her brain to a state of heightened neuroplasticity, it hadn't automatically built new habits or coping mechanisms. That was her job now.
+
+The integration process involved a multi-faceted approach. With the guidance of her integration coach, Clara began to meticulously identify the subtle triggers that used to send her spiraling. She started a daily mindfulness practice, not just as a technique, but as a way to stay connected to the grounded state she’d found. She prioritized sleep and nutrition, understanding that these were foundational to maintaining her new neurological balance. She also engaged in creative writing, using it as an outlet to process past experiences with a new, compassionate lens, rather than the critical one she’d always employed. It was a conscious effort to lay down new neural pathways, like carefully planting seeds in the freshly cleared earth.
+
+One specific change Clara mentioned was her relationship with her work. Before, deadlines would induce panic. After ibogaine, she still felt the pressure, but she noticed a significant shift. Instead of spiraling into anxiety, she could observe the feeling, acknowledge it, and then redirect her focus to the task at hand. Over the next six months, she found herself not only meeting deadlines with less stress but also approaching challenges with a newfound sense of creative problem-solving rather than reactive fear. She wasn't just managing her symptoms; she was fundamentally changing her response to life's stressors. Her social interactions improved too, as she felt more genuinely present and less preoccupied with internal anxieties.
+
+Today, more than a year and a half after her ibogaine experience, Clara speaks of a sustained sense of inner peace and resilience. She acknowledges that life still presents challenges, but she now has a solid foundation to navigate them. The "flood" of ibogaine cleared the way, and her diligent integration work built a new, stronger landscape where old destructive patterns no longer take root. She is actively engaging in volunteer work, something she never had the mental space for before, finding immense joy and purpose in contributing to her community. Her life isn't just different; it's transformed, illustrating the profound power of not just experiencing the reset, but actively engaging in the crucial journey of integration that follows.
+
+Learn more: https://theibogainstitute.org]]></description>
+      <content:encoded><![CDATA[Scientific understanding of ibogaine consistently points to its unique capacity to induce a profound neurological reset, essentially clearing old, entrenched patterns in the brain. This isn't just symptom management; it's a recalibration that opens an incredible window for healing. However, this powerful reset is only the beginning. The science also tells us that this window of heightened neuroplasticity, while transformative, requires conscious and sustained effort—what we call integration—to build new, healthy neural pathways and ensure lasting transformation.
+
+This understanding of the "after the reset" journey is crucial, and it perfectly illustrates the experience of our client, Clara.
+
+Clara had navigated the intense iboga experience, finding clarity she hadn't known in years. But then came the challenging, yet ultimately rewarding, period of making that clarity stick.
+
+Clara, a 42-year-old former marketing executive, had been struggling with a deeply ingrained pattern of anxiety and self-sabotage for over two decades. Her professional life was a constant cycle of high achievement followed by burnout, and her personal relationships often felt strained by her underlying unease. She described it as constantly living under a grey cloud, unable to fully enjoy moments even when things were going well.
+
+Before discovering ibogaine, Clara had tried everything from various talk therapies—Cognitive Behavioral Therapy, EMDR—to medication, meditation retreats, and even lifestyle overhauls like strict diets and intense exercise regimens. Each offered some temporary relief, a brief clearing in the clouds, but the underlying patterns always seemed to resurface, pulling her back into familiar cycles of stress and self-criticism. It was like patching a leaky roof, only for new leaks to appear elsewhere. Nothing addressed the fundamental architecture of her internal struggle. She realized she needed something that could truly dismantle the old structure, not just mend the cracks.
+
+Her search for deeper healing led her to Iboga Wellness Institute, where she underwent her ibogaine treatment, carefully monitored by our medical team, ensuring her safety and comfort throughout the profound experience. She described the iboga journey itself as a powerful, purifying flood, washing away years of accumulated emotional debris. The intensity was undeniable, but the clarity that emerged on the other side was breathtaking. For the first time in her adult life, she felt truly calm, unburdened, and present. The grey cloud had lifted.
+
+However, the experience of a powerful ibogaine treatment is often compared to clearing a dense forest. The old growth is gone, creating fertile ground, but it's still an open space. It's empty. That's where integration becomes vital. For Clara, the real work began not in the peak of the iboga experience, but in the weeks and months that followed. She understood that while ibogaine had reset her brain to a state of heightened neuroplasticity, it hadn't automatically built new habits or coping mechanisms. That was her job now.
+
+The integration process involved a multi-faceted approach. With the guidance of her integration coach, Clara began to meticulously identify the subtle triggers that used to send her spiraling. She started a daily mindfulness practice, not just as a technique, but as a way to stay connected to the grounded state she’d found. She prioritized sleep and nutrition, understanding that these were foundational to maintaining her new neurological balance. She also engaged in creative writing, using it as an outlet to process past experiences with a new, compassionate lens, rather than the critical one she’d always employed. It was a conscious effort to lay down new neural pathways, like carefully planting seeds in the freshly cleared earth.
+
+One specific change Clara mentioned was her relationship with her work. Before, deadlines would induce panic. After ibogaine, she still felt the pressure, but she noticed a significant shift. Instead of spiraling into anxiety, she could observe the feeling, acknowledge it, and then redirect her focus to the task at hand. Over the next six months, she found herself not only meeting deadlines with less stress but also approaching challenges with a newfound sense of creative problem-solving rather than reactive fear. She wasn't just managing her symptoms; she was fundamentally changing her response to life's stressors. Her social interactions improved too, as she felt more genuinely present and less preoccupied with internal anxieties.
+
+Today, more than a year and a half after her ibogaine experience, Clara speaks of a sustained sense of inner peace and resilience. She acknowledges that life still presents challenges, but she now has a solid foundation to navigate them. The "flood" of ibogaine cleared the way, and her diligent integration work built a new, stronger landscape where old destructive patterns no longer take root. She is actively engaging in volunteer work, something she never had the mental space for before, finding immense joy and purpose in contributing to her community. Her life isn't just different; it's transformed, illustrating the profound power of not just experiencing the reset, but actively engaging in the crucial journey of integration that follows.
+
+Learn more: https://theibogainstitute.org]]></content:encoded>
+      <guid isPermaLink="false">AftertheFloodIntegrationandthePathtoLastingTransformation</guid>
+      <pubDate>Mon, 09 Feb 2026 13:12:41 GMT</pubDate>
+      <enclosure
+        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/AftertheFloodIntegrationandthePathtoLastingTransformation.mp3"
+        length="12345678"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  
+    <item>
+      <title><![CDATA[The Oneirophrenia Effect: Why Ibogaine's Dream State Heals Differently Than Sleep]]></title>
+      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheOneirophreniaEffectWhyIbogainesDreamStateHealsDifferentlyThanSleep_Episode_Image.jpeg" />
+      <description><![CDATA[The research is clear: ibogaine therapy offers a profound neurological transformation, not just symptom management. For instance, studies have shown an 88% reduction in PTSD symptoms at one month, often sustained at six months, allowing clients to reclaim their lives. For opioid dependence, a twelve-month study revealed a fifty percent sustained abstinence rate, which is five times higher than many traditional programs.
+
+This remarkable efficacy is deeply connected to a unique waking dream state ibogaine induces, known as oneirophrenia. Today, we'll explore what makes this state so profoundly different from conventional sleep, and how it empowers individuals to consciously engage with their healing, just like our client, Daniel.
+
+Let's hear their story.
+
+Daniel, a talented architect in his late 30s, had been battling severe depression and anxiety for over a decade. His days were overshadowed by a persistent fog, a crushing weight that stifled his creativity and strained his relationships. He felt disconnected, constantly on edge, and utterly exhausted by the relentless internal struggle.
+
+He had tried everything: multiple rounds of antidepressant medications, years of talk therapy, mindfulness practices, even alternative wellness retreats. Each offered fleeting moments of relief, perhaps a slight easing of symptoms, but nothing ever touched the core of his suffering. It was like patching a leaking boat without ever finding the source of the leak. He grew increasingly frustrated, feeling trapped in a cycle of temporary fixes. The idea of living with this perpetual internal battle for the rest of his life was unbearable.
+
+Daniel stumbled upon information about ibogaine while desperately searching for truly transformative solutions. He was initially skeptical of anything that promised such a profound shift, but the concept of a neurological reset, rather than just symptom management, intrigued him. He delved into research, learning about the brain's neuroplasticity and the unique state of "oneirophrenia" that ibogaine induces. The idea of a conscious dream state, where he could actively process deep-seated issues, resonated deeply with his desire for understanding and resolution. He felt a flicker of hope he hadn't experienced in years.
+
+His treatment at the Iboga Wellness Institute was meticulously planned and medically supervised. From the moment he arrived, the emphasis on safety was paramount, with 24/7 cardiac monitoring and personalized protocols. The ibogaine experience itself was unlike anything Daniel could have imagined. It wasn't sleep; he was acutely aware, yet deeply immersed in a vibrant, kaleidoscopic inner world. He described it as his entire life unfolding before him, not as a passive spectator, but as an active participant.
+
+During this oneirophrenic state, Daniel revisited key moments from his past, not with the overwhelming emotional charge he usually experienced, but with a profound sense of clarity and detachment. He saw patterns, understood the origins of his anxiety, and processed long-buried traumas that traditional therapy had only grazed. It was as if his subconscious was presenting him with a detailed diagnostic report of his emotional landscape, allowing him to consciously integrate and reframe these experiences. He recognized the connections between childhood events and his adult struggles, making sense of decades of unaddressed pain. He reported a sense of deep self-compassion he'd never accessed before.
+
+What changed for Daniel was nothing short of revolutionary. Within days, the pervasive fog that had blanketed his mind for years began to lift. He woke up feeling a lightness he hadn't known since his youth. The constant anxiety dissipated, replaced by a quiet calm. He found that the ruminating thoughts that used to spiral him into depression simply weren't there anymore. It wasn't that his past was erased, but its grip on his present was gone. He described it as if the old neural pathways of depression had been pruned, and new, healthier ones had started to grow. This is the neuroplasticity at work, supported by the upregulation of growth factors like GDNF and BDNF, which literally help repair and rebuild brain circuits.
+
+Six months later, Daniel is thriving. He’s re-engaged with his passion for architecture, tackling complex projects with renewed focus and creativity. His relationships with his family have blossomed, free from the shadow of his former struggles. He wakes up each day with a sense of purpose and genuine joy. He often reflects on the oneirophrenic journey, acknowledging it as the pivotal moment that allowed him to heal differently, to consciously participate in his own neurological reset. He calls it "the most profound repair work his mind has ever undertaken," a testament to the fact that broken can indeed become breakthrough.
+
+Learn more: https://theibogainstitute.org]]></description>
+      <content:encoded><![CDATA[The research is clear: ibogaine therapy offers a profound neurological transformation, not just symptom management. For instance, studies have shown an 88% reduction in PTSD symptoms at one month, often sustained at six months, allowing clients to reclaim their lives. For opioid dependence, a twelve-month study revealed a fifty percent sustained abstinence rate, which is five times higher than many traditional programs.
+
+This remarkable efficacy is deeply connected to a unique waking dream state ibogaine induces, known as oneirophrenia. Today, we'll explore what makes this state so profoundly different from conventional sleep, and how it empowers individuals to consciously engage with their healing, just like our client, Daniel.
+
+Let's hear their story.
+
+Daniel, a talented architect in his late 30s, had been battling severe depression and anxiety for over a decade. His days were overshadowed by a persistent fog, a crushing weight that stifled his creativity and strained his relationships. He felt disconnected, constantly on edge, and utterly exhausted by the relentless internal struggle.
+
+He had tried everything: multiple rounds of antidepressant medications, years of talk therapy, mindfulness practices, even alternative wellness retreats. Each offered fleeting moments of relief, perhaps a slight easing of symptoms, but nothing ever touched the core of his suffering. It was like patching a leaking boat without ever finding the source of the leak. He grew increasingly frustrated, feeling trapped in a cycle of temporary fixes. The idea of living with this perpetual internal battle for the rest of his life was unbearable.
+
+Daniel stumbled upon information about ibogaine while desperately searching for truly transformative solutions. He was initially skeptical of anything that promised such a profound shift, but the concept of a neurological reset, rather than just symptom management, intrigued him. He delved into research, learning about the brain's neuroplasticity and the unique state of "oneirophrenia" that ibogaine induces. The idea of a conscious dream state, where he could actively process deep-seated issues, resonated deeply with his desire for understanding and resolution. He felt a flicker of hope he hadn't experienced in years.
+
+His treatment at the Iboga Wellness Institute was meticulously planned and medically supervised. From the moment he arrived, the emphasis on safety was paramount, with 24/7 cardiac monitoring and personalized protocols. The ibogaine experience itself was unlike anything Daniel could have imagined. It wasn't sleep; he was acutely aware, yet deeply immersed in a vibrant, kaleidoscopic inner world. He described it as his entire life unfolding before him, not as a passive spectator, but as an active participant.
+
+During this oneirophrenic state, Daniel revisited key moments from his past, not with the overwhelming emotional charge he usually experienced, but with a profound sense of clarity and detachment. He saw patterns, understood the origins of his anxiety, and processed long-buried traumas that traditional therapy had only grazed. It was as if his subconscious was presenting him with a detailed diagnostic report of his emotional landscape, allowing him to consciously integrate and reframe these experiences. He recognized the connections between childhood events and his adult struggles, making sense of decades of unaddressed pain. He reported a sense of deep self-compassion he'd never accessed before.
+
+What changed for Daniel was nothing short of revolutionary. Within days, the pervasive fog that had blanketed his mind for years began to lift. He woke up feeling a lightness he hadn't known since his youth. The constant anxiety dissipated, replaced by a quiet calm. He found that the ruminating thoughts that used to spiral him into depression simply weren't there anymore. It wasn't that his past was erased, but its grip on his present was gone. He described it as if the old neural pathways of depression had been pruned, and new, healthier ones had started to grow. This is the neuroplasticity at work, supported by the upregulation of growth factors like GDNF and BDNF, which literally help repair and rebuild brain circuits.
+
+Six months later, Daniel is thriving. He’s re-engaged with his passion for architecture, tackling complex projects with renewed focus and creativity. His relationships with his family have blossomed, free from the shadow of his former struggles. He wakes up each day with a sense of purpose and genuine joy. He often reflects on the oneirophrenic journey, acknowledging it as the pivotal moment that allowed him to heal differently, to consciously participate in his own neurological reset. He calls it "the most profound repair work his mind has ever undertaken," a testament to the fact that broken can indeed become breakthrough.
+
+Learn more: https://theibogainstitute.org]]></content:encoded>
+      <guid isPermaLink="false">TheOneirophreniaEffectWhyIbogainesDreamStateHealsDifferentlyThanSleep</guid>
+      <pubDate>Mon, 16 Feb 2026 13:12:20 GMT</pubDate>
+      <enclosure
+        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheOneirophreniaEffectWhyIbogainesDreamStateHealsDifferentlyThanSleep.mp3"
+        length="12345678"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  
+    <item>
+      <title><![CDATA[VTA and Substantia Nigra: The Midbrain Regions Where Ibogaine Works Its Magic]]></title>
+      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/VTAandSubstantiaNigraTheMidbrainRegionsWhereIbogaineWorksItsMagic_Episode_Image.jpeg" />
+      <description><![CDATA[A 2015 study on rats demonstrated that ibogaine increased GDNF levels specifically in the ventral tegmental area, or VTA, and the substantia nigra – two incredibly important brain regions. These are the very areas where drugs of abuse activate mesolimbic neurons, driving addiction cues and triggering relapse. Ibogaine doesn't just block symptoms; it directly targets and begins to repair these neurological pathways that keep the cycle going, upregulating neurotrophic factors like GDNF that are crucial for neuronal repair and survival. This is not symptom management; it's a profound neurological transformation.
+
+That deep understanding of how ibogaine works at the molecular level offers profound hope. Today, you'll hear about someone whose life was transformed by this precise neurological reset.
+
+Meet Mark, a man who, for years, felt trapped in a relentless cycle of opioid addiction, unaware that the very structure of his brain was working against him.
+
+Let's hear their story.
+
+Mark was in his late 30s when we met him, a successful architect whose life had slowly unraveled. It began innocently enough, with a prescription for painkillers after a back injury. The pain subsided, but the subtle grip of the medication lingered. Soon, Mark found himself chasing that initial feeling, needing more and more to feel "normal." What started as a physical dependence quickly morphed into a full-blown addiction. His once-thriving career suffered, relationships with his family grew strained, and the vibrant, creative man he once was became shadowed by guilt, shame, and an all-consuming need for his next dose. He felt like a prisoner in his own mind, constantly battling cravings and the crushing weight of withdrawal.
+
+He had tried everything: multiple rounds of traditional inpatient rehab, outpatient programs, even Suboxone treatment. Each attempt brought temporary relief, a fleeting glimpse of hope, only to be followed by the inevitable relapse. The withdrawal symptoms were agonizing, a cruel physical and psychological torment that made even the thought of quitting seem impossible. The Suboxone, while it held withdrawal at bay, left him feeling emotionally flat and still very much dependent on a substance. He understood the theory behind recovery, but his brain simply wouldn't cooperate. It was as if his VTA and substantia nigra, those core reward and motivation centers, were stuck on a loop, constantly shouting for the drug, overriding any conscious desire to stop.
+
+Desperate and feeling like he was out of options, Mark began researching alternative treatments. He stumbled upon articles about ibogaine and its unique ability to reset brain chemistry. The idea of a single treatment offering such a profound neurological shift, rather than a prolonged battle of willpower against his own brain, resonated deeply with him. He learned about how ibogaine interacts with those specific midbrain regions, like the VTA and substantia nigra, promoting the release of GDNF and BDNF—proteins that are essentially building blocks for repairing damaged neural pathways. He saw the scientific data, including studies showing significant reductions in withdrawal symptoms and sustained abstinence rates far beyond what traditional methods offered. Though initially apprehensive, the science, combined with stories of real transformation, gave him a renewed sense of purpose. After extensive research, he made the courageous decision to come to Iboga Wellness Institute.
+
+Mark’s journey began with a thorough medical screening to ensure his safety. Our protocols are incredibly strict, including 24/7 cardiac monitoring and careful administration of magnesium to protect the heart during treatment. When it was time for his session, he was guided through a process that was deeply introspective and profoundly healing. Unlike his previous detox experiences, the physical withdrawal he dreaded never materialized. Within 24 hours, his body felt a profound sense of relief. The constant gnawing ache, the restlessness, the intense cravings that had dictated his life for so long – they were gone. It was as if a switch had been flipped.
+
+What changed for Mark was nothing short of miraculous for him. He described feeling a clarity he hadn't experienced in years. The relentless mental chatter surrounding drug use had quieted. He could think, truly think, about his life without the shadow of addiction looming over every thought. This wasn't just a temporary break; it was a fundamental reset. His brain's reward system, which had been hijacked by opioids, felt rebalanced. The ibogaine had initiated a process where his brain could begin to heal itself, particularly in those crucial VTA and substantia nigra regions, allowing for new, healthy neural connections to form.
+
+Now, six months after his treatment, Mark is a different man. He's back at work, creatively engaged and excelling. His relationships with his wife and children have been fully restored, built on trust and open communication. He says the cravings, which used to be a daily torment, are practically nonexistent. He feels a sense of self-worth and genuine joy that he thought was lost forever. Mark often reflects on how ibogaine allowed him to bypass the brutal physical and psychological hurdles that had always derailed his previous attempts at sobriety. He received a neurological gift, an opportunity for his brain to reset and for him to rebuild his life from a truly clean slate. He is an incredible example of how targeting the root neurological issues can lead to sustained, life-changing recovery.
+
+Learn more: https://theibogainstitute.org]]></description>
+      <content:encoded><![CDATA[A 2015 study on rats demonstrated that ibogaine increased GDNF levels specifically in the ventral tegmental area, or VTA, and the substantia nigra – two incredibly important brain regions. These are the very areas where drugs of abuse activate mesolimbic neurons, driving addiction cues and triggering relapse. Ibogaine doesn't just block symptoms; it directly targets and begins to repair these neurological pathways that keep the cycle going, upregulating neurotrophic factors like GDNF that are crucial for neuronal repair and survival. This is not symptom management; it's a profound neurological transformation.
+
+That deep understanding of how ibogaine works at the molecular level offers profound hope. Today, you'll hear about someone whose life was transformed by this precise neurological reset.
+
+Meet Mark, a man who, for years, felt trapped in a relentless cycle of opioid addiction, unaware that the very structure of his brain was working against him.
+
+Let's hear their story.
+
+Mark was in his late 30s when we met him, a successful architect whose life had slowly unraveled. It began innocently enough, with a prescription for painkillers after a back injury. The pain subsided, but the subtle grip of the medication lingered. Soon, Mark found himself chasing that initial feeling, needing more and more to feel "normal." What started as a physical dependence quickly morphed into a full-blown addiction. His once-thriving career suffered, relationships with his family grew strained, and the vibrant, creative man he once was became shadowed by guilt, shame, and an all-consuming need for his next dose. He felt like a prisoner in his own mind, constantly battling cravings and the crushing weight of withdrawal.
+
+He had tried everything: multiple rounds of traditional inpatient rehab, outpatient programs, even Suboxone treatment. Each attempt brought temporary relief, a fleeting glimpse of hope, only to be followed by the inevitable relapse. The withdrawal symptoms were agonizing, a cruel physical and psychological torment that made even the thought of quitting seem impossible. The Suboxone, while it held withdrawal at bay, left him feeling emotionally flat and still very much dependent on a substance. He understood the theory behind recovery, but his brain simply wouldn't cooperate. It was as if his VTA and substantia nigra, those core reward and motivation centers, were stuck on a loop, constantly shouting for the drug, overriding any conscious desire to stop.
+
+Desperate and feeling like he was out of options, Mark began researching alternative treatments. He stumbled upon articles about ibogaine and its unique ability to reset brain chemistry. The idea of a single treatment offering such a profound neurological shift, rather than a prolonged battle of willpower against his own brain, resonated deeply with him. He learned about how ibogaine interacts with those specific midbrain regions, like the VTA and substantia nigra, promoting the release of GDNF and BDNF—proteins that are essentially building blocks for repairing damaged neural pathways. He saw the scientific data, including studies showing significant reductions in withdrawal symptoms and sustained abstinence rates far beyond what traditional methods offered. Though initially apprehensive, the science, combined with stories of real transformation, gave him a renewed sense of purpose. After extensive research, he made the courageous decision to come to Iboga Wellness Institute.
+
+Mark’s journey began with a thorough medical screening to ensure his safety. Our protocols are incredibly strict, including 24/7 cardiac monitoring and careful administration of magnesium to protect the heart during treatment. When it was time for his session, he was guided through a process that was deeply introspective and profoundly healing. Unlike his previous detox experiences, the physical withdrawal he dreaded never materialized. Within 24 hours, his body felt a profound sense of relief. The constant gnawing ache, the restlessness, the intense cravings that had dictated his life for so long – they were gone. It was as if a switch had been flipped.
+
+What changed for Mark was nothing short of miraculous for him. He described feeling a clarity he hadn't experienced in years. The relentless mental chatter surrounding drug use had quieted. He could think, truly think, about his life without the shadow of addiction looming over every thought. This wasn't just a temporary break; it was a fundamental reset. His brain's reward system, which had been hijacked by opioids, felt rebalanced. The ibogaine had initiated a process where his brain could begin to heal itself, particularly in those crucial VTA and substantia nigra regions, allowing for new, healthy neural connections to form.
+
+Now, six months after his treatment, Mark is a different man. He's back at work, creatively engaged and excelling. His relationships with his wife and children have been fully restored, built on trust and open communication. He says the cravings, which used to be a daily torment, are practically nonexistent. He feels a sense of self-worth and genuine joy that he thought was lost forever. Mark often reflects on how ibogaine allowed him to bypass the brutal physical and psychological hurdles that had always derailed his previous attempts at sobriety. He received a neurological gift, an opportunity for his brain to reset and for him to rebuild his life from a truly clean slate. He is an incredible example of how targeting the root neurological issues can lead to sustained, life-changing recovery.
+
+Learn more: https://theibogainstitute.org]]></content:encoded>
+      <guid isPermaLink="false">VTAandSubstantiaNigraTheMidbrainRegionsWhereIbogaineWorksItsMagic</guid>
+      <pubDate>Mon, 23 Feb 2026 16:50:39 GMT</pubDate>
+      <enclosure
+        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/VTAandSubstantiaNigraTheMidbrainRegionsWhereIbogaineWorksItsMagic.mp3"
+        length="12345678"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
