@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
-  <channel>
-    <title>Rewired: The Ibogaine Experience</title>
-    <link>https://theibogainstitute.org</link>
-    <language>en-us</language>
-    <description>Welcome to 'Rewired: The Ibogaine Experience,' an intimate journey into the lives transformed by ibogaine therapy. Join us for powerful conversations with patients, families, and practitioners from The Iboga Wellness Institute as they share the real stories behind their healing. From veterans battling PTSD to those overcoming addiction and Parkinson's patients finding relief, discover the profound moments that led them to this groundbreaking treatment. Our podcast explores the intersection of cutting-edge research and personal recovery, revealing ibogaine's potential as a catalyst for genuine transformation when conventional medicine falls short.
-    
+<channel>
+<title>Rewired: The Ibogaine Experience</title>
+<link>https://theibogainstitute.org</link>
+<language>en-us</language>
+<description>Welcome to 'Rewired: The Ibogaine Experience,' an intimate journey into the lives transformed by ibogaine therapy. Join us for powerful conversations with patients, families, and practitioners from The Iboga Wellness Institute as they share the real stories behind their healing. From veterans battling PTSD to those overcoming addiction and Parkinson's patients finding relief, discover the profound moments that led them to this groundbreaking treatment. Our podcast explores the intersection of cutting-edge research and personal recovery, revealing ibogaine's potential as a catalyst for genuine transformation when conventional medicine falls short.
+
 Brought to you by IBOGA Wellness Institute.
-    
+
 You'll hear honest conversations about struggle, recovery, and what happens after treatment. Veterans with PTSD, people overcoming addiction, patients with Parkinson's experiencing symptom improvements, and the family members who supported them through the decision.
-    
+
 These are authentic stories backed by research. No false promises. No wellness industry marketing. Just real people sharing what worked when traditional treatments failed.
-    
+
 If you're researching options for someone you love, or seeking answers for yourself, you're not alone.
-    
+
 New episodes. Real stories. Real outcomes. Real hope.
-    
+
 Learn more: https://theibogainstitute.org</description>
 
-    <!-- Set this to the final public URL where THIS RSS XML is hosted -->
-    <atom:link href="https://raw.githubusercontent.com/aidatamanagement/Iboga_Podcast/main/Rewired.xml" rel="self" type="application/rss+xml"/>
+<!-- Set this to the final public URL where THIS RSS XML is hosted -->
+<atom:link href="https://raw.githubusercontent.com/ibogacode/Iboga_Podcast/main/Rewired.xml" rel="self" type="application/rss+xml"/>
 
-    <!-- Recommended metadata -->
-    <lastBuildDate>Wed, 03 Dec 2025 10:15:00 -0500</lastBuildDate>
-    <itunes:type>episodic</itunes:type>
+<!-- Recommended metadata -->
+<lastBuildDate>Wed, 03 Dec 2025 10:15:00 -0500</lastBuildDate>
+<itunes:type>episodic</itunes:type>
 
-    <!-- Spotify reads iTunes podcast tags -->
-    <itunes:author>The Iboga Wellness Institute</itunes:author>
-    <itunes:summary>Sarah Mitchell has personal experience researching treatments for a loved one at 2am. She knows what it's like to be exhausted, hopeful, and trying to separate science from marketing. After seeing the real results ibogaine offers, Sarah brings you the research and shares authentic experiences from people who have walked this path.
+<!-- Spotify reads iTunes podcast tags -->
+<itunes:author>The Iboga Wellness Institute</itunes:author>
+<itunes:summary>Sarah Mitchell has personal experience researching treatments for a loved one at 2am. She knows what it's like to be exhausted, hopeful, and trying to separate science from marketing. After seeing the real results ibogaine offers, Sarah brings you the research and shares authentic experiences from people who have walked this path.
 Sarah speaks to you as a peer, not an expert. She's been where you are.</itunes:summary>
-    <itunes:explicit>false</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 
-    <itunes:owner>
-      <itunes:name>Shubakar Poda</itunes:name>
-      <itunes:email>contactus@theibogainstitute.org</itunes:email>
-    </itunes:owner>
+<itunes:owner>
+<itunes:name>Shubakar Poda</itunes:name>
+<itunes:email>contactus@theibogainstitute.org</itunes:email>
+</itunes:owner>
 
-    <itunes:category text="Technology"/>
+<itunes:category text="Technology"/>
 
-    <!-- Prefer hosting your own cover art long-term, but this URL is syntactically fine -->
-    <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/Rewired%20by%20Iboga%20Wellness%20Institute%20Main%20banner.jpg"/>
+<!-- Prefer hosting your own cover art long-term, but this URL is syntactically fine -->
+<itunes:image href="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/Rewired%20by%20Iboga%20Wellness%20Institute%20Main%20banner.jpg"/>
 
-    <!-- Optional nice-to-haves -->
-    <itunes:subtitle>Supabase-hosted podcast feed test</itunes:subtitle>
-    <itunes:keywords>supabase, podcast, testing, aidm</itunes:keywords>
+<!-- Optional nice-to-haves -->
+<itunes:subtitle>Supabase-hosted podcast feed test</itunes:subtitle>
+<itunes:keywords>supabase, podcast, testing, aidm</itunes:keywords>
 
 
 
-  
- 
-    
 
-  
-  
-    
-  
-    <item>
-      <title><![CDATA[One Session, Lasting Freedom—The Long-Term Effects of Ibogaine]]></title>
-      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/OneSessionLastingFreedomTheLongTermEffectsofIbogaine_Episode_Image.jpeg" />
-      <description><![CDATA[A twelve-month study revealed that fifty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That success rate is five times higher than traditional rehab programs. Another compelling outcome is an 88% reduction in PTSD symptoms sustained at six months, showcasing ibogaine's wide-ranging impact beyond just addiction.
+
+
+
+
+
+
+
+<item>
+<title><![CDATA[One Session, Lasting Freedom—The Long-Term Effects of Ibogaine]]></title>
+<itunes:image href="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/OneSessionLastingFreedomTheLongTermEffectsofIbogaine_Episode_Image.jpeg" />
+<description><![CDATA[A twelve-month study revealed that fifty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That success rate is five times higher than traditional rehab programs. Another compelling outcome is an 88% reduction in PTSD symptoms sustained at six months, showcasing ibogaine's wide-ranging impact beyond just addiction.
 
 This research represents hope for millions seeking a lasting change. Today, you'll hear about Marcus, a client who found profound freedom after years battling an insidious addiction.
 
@@ -81,7 +81,7 @@ When he emerged from the deep state, Marcus felt an immediate, profound shift. H
 Now, six months post-treatment, Marcus's life is a testament to the lasting freedom ibogaine can offer. He remains completely abstinent, the cravings a distant memory. He’s back at work, performing at his peak, and most importantly, he’s an engaged and loving father again. The long-term improvements extend beyond just sobriety; his family relationships have been significantly mended, a testament to the comprehensive healing that takes place. He continues with regular integration therapy, reinforcing the insights gained during his ibogaine experience. The calm in his eyes, the renewed purpose in his stride, and the genuine laughter with his children are all proof of the powerful, enduring impact of one session. His story truly embodies what it means to achieve lasting freedom.
 
 Learn more: https://theibogainstitute.org]]></description>
-      <content:encoded><![CDATA[A twelve-month study revealed that fifty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That success rate is five times higher than traditional rehab programs. Another compelling outcome is an 88% reduction in PTSD symptoms sustained at six months, showcasing ibogaine's wide-ranging impact beyond just addiction.
+<content:encoded><![CDATA[A twelve-month study revealed that fifty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That success rate is five times higher than traditional rehab programs. Another compelling outcome is an 88% reduction in PTSD symptoms sustained at six months, showcasing ibogaine's wide-ranging impact beyond just addiction.
 
 This research represents hope for millions seeking a lasting change. Today, you'll hear about Marcus, a client who found profound freedom after years battling an insidious addiction.
 
@@ -100,21 +100,21 @@ When he emerged from the deep state, Marcus felt an immediate, profound shift. H
 Now, six months post-treatment, Marcus's life is a testament to the lasting freedom ibogaine can offer. He remains completely abstinent, the cravings a distant memory. He’s back at work, performing at his peak, and most importantly, he’s an engaged and loving father again. The long-term improvements extend beyond just sobriety; his family relationships have been significantly mended, a testament to the comprehensive healing that takes place. He continues with regular integration therapy, reinforcing the insights gained during his ibogaine experience. The calm in his eyes, the renewed purpose in his stride, and the genuine laughter with his children are all proof of the powerful, enduring impact of one session. His story truly embodies what it means to achieve lasting freedom.
 
 Learn more: https://theibogainstitute.org]]></content:encoded>
-      <guid isPermaLink="false">OneSessionLastingFreedomTheLongTermEffectsofIbogaine</guid>
-      <pubDate>Wed, 04 Feb 2026 16:36:53 GMT</pubDate>
-      <enclosure
-        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/OneSessionLastingFreedomTheLongTermEffectsofIbogaine.mp3"
-        length="12345678"
-        type="audio/mpeg" />
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+<guid isPermaLink="false">OneSessionLastingFreedomTheLongTermEffectsofIbogaine</guid>
+<pubDate>Wed, 04 Feb 2026 16:36:53 GMT</pubDate>
+<enclosure
+url="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/OneSessionLastingFreedomTheLongTermEffectsofIbogaine.mp3"
+length="12345678"
+type="audio/mpeg" />
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
 
-  
-    <item>
-      <title><![CDATA[Why Traditional Detox Fails So Many People (And What Actually Works)]]></title>
-      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/WhyTraditionalDetoxFailsSoManyPeopleAndWhatActuallyWorks_Episode_Image.jpeg" />
-      <description><![CDATA[Research shows that traditional detox programs for opioid dependency often have very low long-term success rates, with only around 5-10% of individuals achieving sustained abstinence after one year. This stark reality means nearly 90% of clients eventually relapse, caught in a devastating cycle. In contrast, some studies on ibogaine treatment for opioid dependence report abstinence rates closer to 50% at one year, a five to tenfold improvement over conventional methods.
+
+<item>
+<title><![CDATA[Why Traditional Detox Fails So Many People (And What Actually Works)]]></title>
+<itunes:image href="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/WhyTraditionalDetoxFailsSoManyPeopleAndWhatActuallyWorks_Episode_Image.jpeg" />
+<description><![CDATA[Research shows that traditional detox programs for opioid dependency often have very low long-term success rates, with only around 5-10% of individuals achieving sustained abstinence after one year. This stark reality means nearly 90% of clients eventually relapse, caught in a devastating cycle. In contrast, some studies on ibogaine treatment for opioid dependence report abstinence rates closer to 50% at one year, a five to tenfold improvement over conventional methods.
 
 This massive gap between expectation and reality leaves millions feeling hopeless, trapped in a cycle they can't break. Today, we're going to hear from Michael, a client who experienced this very cycle firsthand.
 
@@ -133,7 +133,7 @@ His treatment experience at Iboga Wellness Institute was unlike anything he’d 
 What changed for Michael was everything. The physical chains of withdrawal were broken, but more importantly, the psychological grip of addiction had loosened. He felt a newfound sense of emotional balance and a perspective on his past trauma that he'd never been able to access before. Six months later, Michael describes himself as a different man. He’s reconnected deeply with his wife and children, able to be truly present with them. He's back to his demanding job, approaching it with renewed focus and creativity. The constant pressure and shame that defined his daily existence are replaced by a quiet sense of peace and gratitude. He understands that recovery is an ongoing journey, but the foundation laid by ibogaine provided the neurological reset he needed to build a life free from dependency. He credits the one treatment paradigm for creating lasting change that previous attempts could only temporarily manage. Michael is living proof that where broken becomes breakthrough, genuine healing is possible.
 
 Learn more: https://theibogainstitute.org]]></description>
-      <content:encoded><![CDATA[Research shows that traditional detox programs for opioid dependency often have very low long-term success rates, with only around 5-10% of individuals achieving sustained abstinence after one year. This stark reality means nearly 90% of clients eventually relapse, caught in a devastating cycle. In contrast, some studies on ibogaine treatment for opioid dependence report abstinence rates closer to 50% at one year, a five to tenfold improvement over conventional methods.
+<content:encoded><![CDATA[Research shows that traditional detox programs for opioid dependency often have very low long-term success rates, with only around 5-10% of individuals achieving sustained abstinence after one year. This stark reality means nearly 90% of clients eventually relapse, caught in a devastating cycle. In contrast, some studies on ibogaine treatment for opioid dependence report abstinence rates closer to 50% at one year, a five to tenfold improvement over conventional methods.
 
 This massive gap between expectation and reality leaves millions feeling hopeless, trapped in a cycle they can't break. Today, we're going to hear from Michael, a client who experienced this very cycle firsthand.
 
@@ -152,21 +152,21 @@ His treatment experience at Iboga Wellness Institute was unlike anything he’d 
 What changed for Michael was everything. The physical chains of withdrawal were broken, but more importantly, the psychological grip of addiction had loosened. He felt a newfound sense of emotional balance and a perspective on his past trauma that he'd never been able to access before. Six months later, Michael describes himself as a different man. He’s reconnected deeply with his wife and children, able to be truly present with them. He's back to his demanding job, approaching it with renewed focus and creativity. The constant pressure and shame that defined his daily existence are replaced by a quiet sense of peace and gratitude. He understands that recovery is an ongoing journey, but the foundation laid by ibogaine provided the neurological reset he needed to build a life free from dependency. He credits the one treatment paradigm for creating lasting change that previous attempts could only temporarily manage. Michael is living proof that where broken becomes breakthrough, genuine healing is possible.
 
 Learn more: https://theibogainstitute.org]]></content:encoded>
-      <guid isPermaLink="false">WhyTraditionalDetoxFailsSoManyPeopleAndWhatActuallyWorks</guid>
-      <pubDate>Wed, 04 Feb 2026 17:36:35 GMT</pubDate>
-      <enclosure
-        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/WhyTraditionalDetoxFailsSoManyPeopleAndWhatActuallyWorks.mp3"
-        length="12345678"
-        type="audio/mpeg" />
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+<guid isPermaLink="false">WhyTraditionalDetoxFailsSoManyPeopleAndWhatActuallyWorks</guid>
+<pubDate>Wed, 04 Feb 2026 17:36:35 GMT</pubDate>
+<enclosure
+url="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/WhyTraditionalDetoxFailsSoManyPeopleAndWhatActuallyWorks.mp3"
+length="12345678"
+type="audio/mpeg" />
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
 
-  
-    <item>
-      <title><![CDATA[The Brain's Hidden Reset Button: Breaking Free Without Maintenance Meds]]></title>
-      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheBrainsHiddenResetButtonBreakingFreeWithoutMaintenanceMeds_Episode_Image.jpeg" />
-      <description><![CDATA[A twelve-month study found that fifty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That's five times the success rate of traditional rehab programs. This isn't just about managing symptoms; it's about a profound neurological reset that can break the cycle of dependence. Ibogaine therapy has often been called the brain's hidden reset button, offering a way to break free without the need for endless maintenance medications.
+
+<item>
+<title><![CDATA[The Brain's Hidden Reset Button: Breaking Free Without Maintenance Meds]]></title>
+<itunes:image href="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheBrainsHiddenResetButtonBreakingFreeWithoutMaintenanceMeds_Episode_Image.jpeg" />
+<description><![CDATA[A twelve-month study found that fifty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That's five times the success rate of traditional rehab programs. This isn't just about managing symptoms; it's about a profound neurological reset that can break the cycle of dependence. Ibogaine therapy has often been called the brain's hidden reset button, offering a way to break free without the need for endless maintenance medications.
 
 That research represents hope for millions seeking true freedom. Today, you'll meet Mark, a man who thought he was destined for a lifetime tethered to medication, but discovered a path to genuine liberation.
 
@@ -187,7 +187,7 @@ When he emerged from the acute phase of treatment, the difference was immediate 
 Six months have passed since Mark’s treatment. He is completely abstinent, living a life free from opioids and, crucially, free from any maintenance medications. The weight of his addiction has lifted, replaced by a deep sense of peace and gratitude. He's reconnected with Sarah and his children, bringing a newfound presence and honesty to his relationships. He’s back to designing, finding joy and creativity in his work that had been absent for so long. His brain, once trapped in the cycle of dependency, truly hit its hidden reset button, allowing him to break free and rebuild his life, healthier and happier than ever before.
 
 Learn more: https://theibogainstitute.org]]></description>
-      <content:encoded><![CDATA[A twelve-month study found that fifty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That's five times the success rate of traditional rehab programs. This isn't just about managing symptoms; it's about a profound neurological reset that can break the cycle of dependence. Ibogaine therapy has often been called the brain's hidden reset button, offering a way to break free without the need for endless maintenance medications.
+<content:encoded><![CDATA[A twelve-month study found that fifty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That's five times the success rate of traditional rehab programs. This isn't just about managing symptoms; it's about a profound neurological reset that can break the cycle of dependence. Ibogaine therapy has often been called the brain's hidden reset button, offering a way to break free without the need for endless maintenance medications.
 
 That research represents hope for millions seeking true freedom. Today, you'll meet Mark, a man who thought he was destined for a lifetime tethered to medication, but discovered a path to genuine liberation.
 
@@ -208,21 +208,21 @@ When he emerged from the acute phase of treatment, the difference was immediate 
 Six months have passed since Mark’s treatment. He is completely abstinent, living a life free from opioids and, crucially, free from any maintenance medications. The weight of his addiction has lifted, replaced by a deep sense of peace and gratitude. He's reconnected with Sarah and his children, bringing a newfound presence and honesty to his relationships. He’s back to designing, finding joy and creativity in his work that had been absent for so long. His brain, once trapped in the cycle of dependency, truly hit its hidden reset button, allowing him to break free and rebuild his life, healthier and happier than ever before.
 
 Learn more: https://theibogainstitute.org]]></content:encoded>
-      <guid isPermaLink="false">TheBrainsHiddenResetButtonBreakingFreeWithoutMaintenanceMeds</guid>
-      <pubDate>Wed, 04 Feb 2026 17:47:11 GMT</pubDate>
-      <enclosure
-        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheBrainsHiddenResetButtonBreakingFreeWithoutMaintenanceMeds.mp3"
-        length="12345678"
-        type="audio/mpeg" />
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+<guid isPermaLink="false">TheBrainsHiddenResetButtonBreakingFreeWithoutMaintenanceMeds</guid>
+<pubDate>Wed, 04 Feb 2026 17:47:11 GMT</pubDate>
+<enclosure
+url="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheBrainsHiddenResetButtonBreakingFreeWithoutMaintenanceMeds.mp3"
+length="12345678"
+type="audio/mpeg" />
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
 
-  
-    <item>
-      <title><![CDATA[From Opioid Dependency to Complete Freedom in 36 Hours]]></title>
-      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/FromOpioidDependencytoCompleteFreedomin36Hours_Episode_Image.jpeg" />
-      <description><![CDATA[The biggest misconception about addiction treatment is that willpower matters. It doesn't. Opioid dependency isn't a moral failing; it's a profound neurological change that rewires the brain at a molecular level. Every time an opioid is used, it deepens the neural pathways that trap individuals in a cycle of dependence and craving.
+
+<item>
+<title><![CDATA[From Opioid Dependency to Complete Freedom in 36 Hours]]></title>
+<itunes:image href="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/FromOpioidDependencytoCompleteFreedomin36Hours_Episode_Image.jpeg" />
+<description><![CDATA[The biggest misconception about addiction treatment is that willpower matters. It doesn't. Opioid dependency isn't a moral failing; it's a profound neurological change that rewires the brain at a molecular level. Every time an opioid is used, it deepens the neural pathways that trap individuals in a cycle of dependence and craving.
 
 Consider the stark reality: A twelve-month study found that traditional rehab programs achieve around a five to ten percent success rate for sustained abstinence from opioids. In contrast, studies on ibogaine treatment show a significant improvement, with thirty to sixty percent of opioid-dependent clients remaining completely abstinent one year after treatment. That's a five-fold increase in successful outcomes. The difference isn't just about managing symptoms; it's about a complete neurological reset.
 
@@ -243,7 +243,7 @@ The change in Jessica was almost immediate and profound. The physical withdrawal
 Today, six months later, Jessica is thriving. She has reconnected with her children in a way she never thought possible, their relationship healed and strengthened by her authentic presence. She has resumed her creative work with passion, finding joy in her designs once again. She speaks of a profound sense of freedom – not just from opioids, but from the fear and shame that had governed her life. Jessica's story is a testament to the power of a single, comprehensive treatment that addresses the root cause of opioid dependency, offering a neurological reset that allows individuals to reclaim their lives.
 
 Learn more: https://theibogainstitute.org]]></description>
-      <content:encoded><![CDATA[The biggest misconception about addiction treatment is that willpower matters. It doesn't. Opioid dependency isn't a moral failing; it's a profound neurological change that rewires the brain at a molecular level. Every time an opioid is used, it deepens the neural pathways that trap individuals in a cycle of dependence and craving.
+<content:encoded><![CDATA[The biggest misconception about addiction treatment is that willpower matters. It doesn't. Opioid dependency isn't a moral failing; it's a profound neurological change that rewires the brain at a molecular level. Every time an opioid is used, it deepens the neural pathways that trap individuals in a cycle of dependence and craving.
 
 Consider the stark reality: A twelve-month study found that traditional rehab programs achieve around a five to ten percent success rate for sustained abstinence from opioids. In contrast, studies on ibogaine treatment show a significant improvement, with thirty to sixty percent of opioid-dependent clients remaining completely abstinent one year after treatment. That's a five-fold increase in successful outcomes. The difference isn't just about managing symptoms; it's about a complete neurological reset.
 
@@ -264,21 +264,21 @@ The change in Jessica was almost immediate and profound. The physical withdrawal
 Today, six months later, Jessica is thriving. She has reconnected with her children in a way she never thought possible, their relationship healed and strengthened by her authentic presence. She has resumed her creative work with passion, finding joy in her designs once again. She speaks of a profound sense of freedom – not just from opioids, but from the fear and shame that had governed her life. Jessica's story is a testament to the power of a single, comprehensive treatment that addresses the root cause of opioid dependency, offering a neurological reset that allows individuals to reclaim their lives.
 
 Learn more: https://theibogainstitute.org]]></content:encoded>
-      <guid isPermaLink="false">FromOpioidDependencytoCompleteFreedomin36Hours</guid>
-      <pubDate>Wed, 04 Feb 2026 18:04:39 GMT</pubDate>
-      <enclosure
-        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/FromOpioidDependencytoCompleteFreedomin36Hours.mp3"
-        length="12345678"
-        type="audio/mpeg" />
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+<guid isPermaLink="false">FromOpioidDependencytoCompleteFreedomin36Hours</guid>
+<pubDate>Wed, 04 Feb 2026 18:04:39 GMT</pubDate>
+<enclosure
+url="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/FromOpioidDependencytoCompleteFreedomin36Hours.mp3"
+length="12345678"
+type="audio/mpeg" />
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
 
-  
-    <item>
-      <title><![CDATA[Ending the Cycle: How Ibogaine Eliminates Cravings at the Cellular Level]]></title>
-      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/EndingtheCycleHowIbogaineEliminatesCravingsattheCellularLevel_Episode_Image.jpeg" />
-      <description><![CDATA[Ibogaine stands out in addiction treatment because it addresses the root cause: brain chemistry. Studies show it can eliminate up to 95% of acute opioid withdrawal symptoms, often within the first 24 hours. This isn't just managing discomfort; it's a neurological reset that dramatically interrupts the cycle of addiction, preventing the agonizing symptoms that so often derail recovery.
+
+<item>
+<title><![CDATA[Ending the Cycle: How Ibogaine Eliminates Cravings at the Cellular Level]]></title>
+<itunes:image href="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/EndingtheCycleHowIbogaineEliminatesCravingsattheCellularLevel_Episode_Image.jpeg" />
+<description><![CDATA[Ibogaine stands out in addiction treatment because it addresses the root cause: brain chemistry. Studies show it can eliminate up to 95% of acute opioid withdrawal symptoms, often within the first 24 hours. This isn't just managing discomfort; it's a neurological reset that dramatically interrupts the cycle of addiction, preventing the agonizing symptoms that so often derail recovery.
 
 This profound neurological transformation represents a new chapter of hope for many, just like it did for our client, Mark.
 
@@ -301,7 +301,7 @@ The changes in Mark were immediate and profound. The acute withdrawal symptoms, 
 It's been over a year since Mark’s treatment at Iboga Wellness Institute. He is back at his construction job, fully engaged and thriving. His relationship with Sarah has healed, and he’s an active, present father to his children. He describes himself as feeling "reborn." Mark's story isn't unique; we see similar transformations in many clients. His journey highlights how ibogaine, under expert medical supervision, offers a unique path to recovery by interrupting addiction at a cellular level, allowing individuals to truly move forward, free from the cycle of craving and withdrawal. This approach fosters a deep, sustained healing, demonstrating that while addiction may rewire the brain, ibogaine offers a powerful way to reset it.
 
 Learn more: https://theibogainstitute.org]]></description>
-      <content:encoded><![CDATA[Ibogaine stands out in addiction treatment because it addresses the root cause: brain chemistry. Studies show it can eliminate up to 95% of acute opioid withdrawal symptoms, often within the first 24 hours. This isn't just managing discomfort; it's a neurological reset that dramatically interrupts the cycle of addiction, preventing the agonizing symptoms that so often derail recovery.
+<content:encoded><![CDATA[Ibogaine stands out in addiction treatment because it addresses the root cause: brain chemistry. Studies show it can eliminate up to 95% of acute opioid withdrawal symptoms, often within the first 24 hours. This isn't just managing discomfort; it's a neurological reset that dramatically interrupts the cycle of addiction, preventing the agonizing symptoms that so often derail recovery.
 
 This profound neurological transformation represents a new chapter of hope for many, just like it did for our client, Mark.
 
@@ -324,21 +324,21 @@ The changes in Mark were immediate and profound. The acute withdrawal symptoms, 
 It's been over a year since Mark’s treatment at Iboga Wellness Institute. He is back at his construction job, fully engaged and thriving. His relationship with Sarah has healed, and he’s an active, present father to his children. He describes himself as feeling "reborn." Mark's story isn't unique; we see similar transformations in many clients. His journey highlights how ibogaine, under expert medical supervision, offers a unique path to recovery by interrupting addiction at a cellular level, allowing individuals to truly move forward, free from the cycle of craving and withdrawal. This approach fosters a deep, sustained healing, demonstrating that while addiction may rewire the brain, ibogaine offers a powerful way to reset it.
 
 Learn more: https://theibogainstitute.org]]></content:encoded>
-      <guid isPermaLink="false">EndingtheCycleHowIbogaineEliminatesCravingsattheCellularLevel</guid>
-      <pubDate>Wed, 04 Feb 2026 18:19:36 GMT</pubDate>
-      <enclosure
-        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/EndingtheCycleHowIbogaineEliminatesCravingsattheCellularLevel.mp3"
-        length="12345678"
-        type="audio/mpeg" />
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+<guid isPermaLink="false">EndingtheCycleHowIbogaineEliminatesCravingsattheCellularLevel</guid>
+<pubDate>Wed, 04 Feb 2026 18:19:36 GMT</pubDate>
+<enclosure
+url="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/EndingtheCycleHowIbogaineEliminatesCravingsattheCellularLevel.mp3"
+length="12345678"
+type="audio/mpeg" />
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
 
-  
-    <item>
-      <title><![CDATA[When Willpower Isn't Enough—The Neuroscience of Lasting Sobriety]]></title>
-      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/WhenWillpowerIsntEnoughTheNeuroscienceofLastingSobriety_Episode_Image.jpeg" />
-      <description><![CDATA[Stanford University research demonstrates a significant breakthrough in addiction treatment: thirty to sixty percent of opioid-dependent clients achieved sustained abstinence at twelve months following ibogaine therapy. This far surpasses the typical five to ten percent success rates often seen with conventional rehab programs, highlighting a crucial difference in approach.
+
+<item>
+<title><![CDATA[When Willpower Isn't Enough—The Neuroscience of Lasting Sobriety]]></title>
+<itunes:image href="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/WhenWillpowerIsntEnoughTheNeuroscienceofLastingSobriety_Episode_Image.jpeg" />
+<description><![CDATA[Stanford University research demonstrates a significant breakthrough in addiction treatment: thirty to sixty percent of opioid-dependent clients achieved sustained abstinence at twelve months following ibogaine therapy. This far surpasses the typical five to ten percent success rates often seen with conventional rehab programs, highlighting a crucial difference in approach.
 
 That research represents hope for millions caught in the grip of addiction, struggling with the misconception that willpower alone is enough to break free. Today, you'll meet Michael, whose decade-long battle with addiction perfectly illustrates why true healing requires more than just strength of mind.
 
@@ -359,7 +359,7 @@ The change wasn't just the absence of withdrawal. Ibogaine works by upregulating
 Today, eighteen months later, Michael is sober and thriving. He's not just abstinent; he's truly living free. His relationships with his wife and children have been fully restored. He’s re-engaged with his business, bringing a renewed focus and energy to his work. He’s even found new passions, exploring hiking and photography, things he never had the mental or emotional space for before. He often reflects on how conventional treatments, while well-intentioned, couldn't address the neurological root of his problem. His story is a testament that while willpower has its place, it's the neurological transformation offered by treatments like ibogaine that creates the foundation for lasting sobriety and a life of genuine freedom.
 
 Learn more: https://theibogainstitute.org]]></description>
-      <content:encoded><![CDATA[Stanford University research demonstrates a significant breakthrough in addiction treatment: thirty to sixty percent of opioid-dependent clients achieved sustained abstinence at twelve months following ibogaine therapy. This far surpasses the typical five to ten percent success rates often seen with conventional rehab programs, highlighting a crucial difference in approach.
+<content:encoded><![CDATA[Stanford University research demonstrates a significant breakthrough in addiction treatment: thirty to sixty percent of opioid-dependent clients achieved sustained abstinence at twelve months following ibogaine therapy. This far surpasses the typical five to ten percent success rates often seen with conventional rehab programs, highlighting a crucial difference in approach.
 
 That research represents hope for millions caught in the grip of addiction, struggling with the misconception that willpower alone is enough to break free. Today, you'll meet Michael, whose decade-long battle with addiction perfectly illustrates why true healing requires more than just strength of mind.
 
@@ -380,21 +380,21 @@ The change wasn't just the absence of withdrawal. Ibogaine works by upregulating
 Today, eighteen months later, Michael is sober and thriving. He's not just abstinent; he's truly living free. His relationships with his wife and children have been fully restored. He’s re-engaged with his business, bringing a renewed focus and energy to his work. He’s even found new passions, exploring hiking and photography, things he never had the mental or emotional space for before. He often reflects on how conventional treatments, while well-intentioned, couldn't address the neurological root of his problem. His story is a testament that while willpower has its place, it's the neurological transformation offered by treatments like ibogaine that creates the foundation for lasting sobriety and a life of genuine freedom.
 
 Learn more: https://theibogainstitute.org]]></content:encoded>
-      <guid isPermaLink="false">WhenWillpowerIsntEnoughTheNeuroscienceofLastingSobriety</guid>
-      <pubDate>Wed, 04 Feb 2026 18:28:36 GMT</pubDate>
-      <enclosure
-        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/WhenWillpowerIsntEnoughTheNeuroscienceofLastingSobriety.mp3"
-        length="12345678"
-        type="audio/mpeg" />
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+<guid isPermaLink="false">WhenWillpowerIsntEnoughTheNeuroscienceofLastingSobriety</guid>
+<pubDate>Wed, 04 Feb 2026 18:28:36 GMT</pubDate>
+<enclosure
+url="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/WhenWillpowerIsntEnoughTheNeuroscienceofLastingSobriety.mp3"
+length="12345678"
+type="audio/mpeg" />
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
 
-  
-    <item>
-      <title><![CDATA[The Flood Dose Explained: What Happens During Ibogaine Treatment]]></title>
-      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheFloodDoseExplainedWhatHappensDuringIbogaineTreatment_Episode_Image.jpeg" />
-      <description><![CDATA[A twelve-month study found that thirty to sixty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That's a significantly higher success rate than many traditional rehab programs, which often see rates in the single digits. This profound transformation is often catalyzed by what we call a "flood dose" of ibogaine.
+
+<item>
+<title><![CDATA[The Flood Dose Explained: What Happens During Ibogaine Treatment]]></title>
+<itunes:image href="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheFloodDoseExplainedWhatHappensDuringIbogaineTreatment_Episode_Image.jpeg" />
+<description><![CDATA[A twelve-month study found that thirty to sixty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That's a significantly higher success rate than many traditional rehab programs, which often see rates in the single digits. This profound transformation is often catalyzed by what we call a "flood dose" of ibogaine.
 
 That remarkable outcome is often the result of a single, powerful experience. Today, you'll hear about Maria, who found her breakthrough with this unique approach.
 
@@ -421,7 +421,7 @@ What changed for Maria was nothing short of miraculous for her. Within 24 hours 
 Today, Maria is 18 months clean and thriving. She's reconnected with her family, built stronger relationships, and found new passion in her work. The daily struggle that once defined her is now a distant memory. She lives a life free from the burden of dependency, experiencing joy and purpose that she once thought were lost forever. Her transformation stands as a testament to the power of a single treatment session creating lasting neurological change.
 
 Learn more: https://theibogainstitute.org]]></description>
-      <content:encoded><![CDATA[A twelve-month study found that thirty to sixty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That's a significantly higher success rate than many traditional rehab programs, which often see rates in the single digits. This profound transformation is often catalyzed by what we call a "flood dose" of ibogaine.
+<content:encoded><![CDATA[A twelve-month study found that thirty to sixty percent of opioid-dependent clients remained completely abstinent one year after ibogaine treatment. That's a significantly higher success rate than many traditional rehab programs, which often see rates in the single digits. This profound transformation is often catalyzed by what we call a "flood dose" of ibogaine.
 
 That remarkable outcome is often the result of a single, powerful experience. Today, you'll hear about Maria, who found her breakthrough with this unique approach.
 
@@ -448,21 +448,21 @@ What changed for Maria was nothing short of miraculous for her. Within 24 hours 
 Today, Maria is 18 months clean and thriving. She's reconnected with her family, built stronger relationships, and found new passion in her work. The daily struggle that once defined her is now a distant memory. She lives a life free from the burden of dependency, experiencing joy and purpose that she once thought were lost forever. Her transformation stands as a testament to the power of a single treatment session creating lasting neurological change.
 
 Learn more: https://theibogainstitute.org]]></content:encoded>
-      <guid isPermaLink="false">TheFloodDoseExplainedWhatHappensDuringIbogaineTreatment</guid>
-      <pubDate>Wed, 04 Feb 2026 18:52:47 GMT</pubDate>
-      <enclosure
-        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheFloodDoseExplainedWhatHappensDuringIbogaineTreatment.mp3"
-        length="12345678"
-        type="audio/mpeg" />
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+<guid isPermaLink="false">TheFloodDoseExplainedWhatHappensDuringIbogaineTreatment</guid>
+<pubDate>Wed, 04 Feb 2026 18:52:47 GMT</pubDate>
+<enclosure
+url="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheFloodDoseExplainedWhatHappensDuringIbogaineTreatment.mp3"
+length="12345678"
+type="audio/mpeg" />
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
 
-  
-    <item>
-      <title><![CDATA[After the Flood—Integration and the Path to Lasting Transformation]]></title>
-      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/AftertheFloodIntegrationandthePathtoLastingTransformation_Episode_Image.jpeg" />
-      <description><![CDATA[Scientific understanding of ibogaine consistently points to its unique capacity to induce a profound neurological reset, essentially clearing old, entrenched patterns in the brain. This isn't just symptom management; it's a recalibration that opens an incredible window for healing. However, this powerful reset is only the beginning. The science also tells us that this window of heightened neuroplasticity, while transformative, requires conscious and sustained effort—what we call integration—to build new, healthy neural pathways and ensure lasting transformation.
+
+<item>
+<title><![CDATA[After the Flood—Integration and the Path to Lasting Transformation]]></title>
+<itunes:image href="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/AftertheFloodIntegrationandthePathtoLastingTransformation_Episode_Image.jpeg" />
+<description><![CDATA[Scientific understanding of ibogaine consistently points to its unique capacity to induce a profound neurological reset, essentially clearing old, entrenched patterns in the brain. This isn't just symptom management; it's a recalibration that opens an incredible window for healing. However, this powerful reset is only the beginning. The science also tells us that this window of heightened neuroplasticity, while transformative, requires conscious and sustained effort—what we call integration—to build new, healthy neural pathways and ensure lasting transformation.
 
 This understanding of the "after the reset" journey is crucial, and it perfectly illustrates the experience of our client, Clara.
 
@@ -483,7 +483,7 @@ One specific change Clara mentioned was her relationship with her work. Before, 
 Today, more than a year and a half after her ibogaine experience, Clara speaks of a sustained sense of inner peace and resilience. She acknowledges that life still presents challenges, but she now has a solid foundation to navigate them. The "flood" of ibogaine cleared the way, and her diligent integration work built a new, stronger landscape where old destructive patterns no longer take root. She is actively engaging in volunteer work, something she never had the mental space for before, finding immense joy and purpose in contributing to her community. Her life isn't just different; it's transformed, illustrating the profound power of not just experiencing the reset, but actively engaging in the crucial journey of integration that follows.
 
 Learn more: https://theibogainstitute.org]]></description>
-      <content:encoded><![CDATA[Scientific understanding of ibogaine consistently points to its unique capacity to induce a profound neurological reset, essentially clearing old, entrenched patterns in the brain. This isn't just symptom management; it's a recalibration that opens an incredible window for healing. However, this powerful reset is only the beginning. The science also tells us that this window of heightened neuroplasticity, while transformative, requires conscious and sustained effort—what we call integration—to build new, healthy neural pathways and ensure lasting transformation.
+<content:encoded><![CDATA[Scientific understanding of ibogaine consistently points to its unique capacity to induce a profound neurological reset, essentially clearing old, entrenched patterns in the brain. This isn't just symptom management; it's a recalibration that opens an incredible window for healing. However, this powerful reset is only the beginning. The science also tells us that this window of heightened neuroplasticity, while transformative, requires conscious and sustained effort—what we call integration—to build new, healthy neural pathways and ensure lasting transformation.
 
 This understanding of the "after the reset" journey is crucial, and it perfectly illustrates the experience of our client, Clara.
 
@@ -504,21 +504,21 @@ One specific change Clara mentioned was her relationship with her work. Before, 
 Today, more than a year and a half after her ibogaine experience, Clara speaks of a sustained sense of inner peace and resilience. She acknowledges that life still presents challenges, but she now has a solid foundation to navigate them. The "flood" of ibogaine cleared the way, and her diligent integration work built a new, stronger landscape where old destructive patterns no longer take root. She is actively engaging in volunteer work, something she never had the mental space for before, finding immense joy and purpose in contributing to her community. Her life isn't just different; it's transformed, illustrating the profound power of not just experiencing the reset, but actively engaging in the crucial journey of integration that follows.
 
 Learn more: https://theibogainstitute.org]]></content:encoded>
-      <guid isPermaLink="false">AftertheFloodIntegrationandthePathtoLastingTransformation</guid>
-      <pubDate>Mon, 09 Feb 2026 13:12:41 GMT</pubDate>
-      <enclosure
-        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/AftertheFloodIntegrationandthePathtoLastingTransformation.mp3"
-        length="12345678"
-        type="audio/mpeg" />
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+<guid isPermaLink="false">AftertheFloodIntegrationandthePathtoLastingTransformation</guid>
+<pubDate>Mon, 09 Feb 2026 13:12:41 GMT</pubDate>
+<enclosure
+url="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/AftertheFloodIntegrationandthePathtoLastingTransformation.mp3"
+length="12345678"
+type="audio/mpeg" />
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
 
-  
-    <item>
-      <title><![CDATA[The Oneirophrenia Effect: Why Ibogaine's Dream State Heals Differently Than Sleep]]></title>
-      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheOneirophreniaEffectWhyIbogainesDreamStateHealsDifferentlyThanSleep_Episode_Image.jpeg" />
-      <description><![CDATA[The research is clear: ibogaine therapy offers a profound neurological transformation, not just symptom management. For instance, studies have shown an 88% reduction in PTSD symptoms at one month, often sustained at six months, allowing clients to reclaim their lives. For opioid dependence, a twelve-month study revealed a fifty percent sustained abstinence rate, which is five times higher than many traditional programs.
+
+<item>
+<title><![CDATA[The Oneirophrenia Effect: Why Ibogaine's Dream State Heals Differently Than Sleep]]></title>
+<itunes:image href="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheOneirophreniaEffectWhyIbogainesDreamStateHealsDifferentlyThanSleep_Episode_Image.jpeg" />
+<description><![CDATA[The research is clear: ibogaine therapy offers a profound neurological transformation, not just symptom management. For instance, studies have shown an 88% reduction in PTSD symptoms at one month, often sustained at six months, allowing clients to reclaim their lives. For opioid dependence, a twelve-month study revealed a fifty percent sustained abstinence rate, which is five times higher than many traditional programs.
 
 This remarkable efficacy is deeply connected to a unique waking dream state ibogaine induces, known as oneirophrenia. Today, we'll explore what makes this state so profoundly different from conventional sleep, and how it empowers individuals to consciously engage with their healing, just like our client, Daniel.
 
@@ -539,7 +539,7 @@ What changed for Daniel was nothing short of revolutionary. Within days, the per
 Six months later, Daniel is thriving. He’s re-engaged with his passion for architecture, tackling complex projects with renewed focus and creativity. His relationships with his family have blossomed, free from the shadow of his former struggles. He wakes up each day with a sense of purpose and genuine joy. He often reflects on the oneirophrenic journey, acknowledging it as the pivotal moment that allowed him to heal differently, to consciously participate in his own neurological reset. He calls it "the most profound repair work his mind has ever undertaken," a testament to the fact that broken can indeed become breakthrough.
 
 Learn more: https://theibogainstitute.org]]></description>
-      <content:encoded><![CDATA[The research is clear: ibogaine therapy offers a profound neurological transformation, not just symptom management. For instance, studies have shown an 88% reduction in PTSD symptoms at one month, often sustained at six months, allowing clients to reclaim their lives. For opioid dependence, a twelve-month study revealed a fifty percent sustained abstinence rate, which is five times higher than many traditional programs.
+<content:encoded><![CDATA[The research is clear: ibogaine therapy offers a profound neurological transformation, not just symptom management. For instance, studies have shown an 88% reduction in PTSD symptoms at one month, often sustained at six months, allowing clients to reclaim their lives. For opioid dependence, a twelve-month study revealed a fifty percent sustained abstinence rate, which is five times higher than many traditional programs.
 
 This remarkable efficacy is deeply connected to a unique waking dream state ibogaine induces, known as oneirophrenia. Today, we'll explore what makes this state so profoundly different from conventional sleep, and how it empowers individuals to consciously engage with their healing, just like our client, Daniel.
 
@@ -560,21 +560,21 @@ What changed for Daniel was nothing short of revolutionary. Within days, the per
 Six months later, Daniel is thriving. He’s re-engaged with his passion for architecture, tackling complex projects with renewed focus and creativity. His relationships with his family have blossomed, free from the shadow of his former struggles. He wakes up each day with a sense of purpose and genuine joy. He often reflects on the oneirophrenic journey, acknowledging it as the pivotal moment that allowed him to heal differently, to consciously participate in his own neurological reset. He calls it "the most profound repair work his mind has ever undertaken," a testament to the fact that broken can indeed become breakthrough.
 
 Learn more: https://theibogainstitute.org]]></content:encoded>
-      <guid isPermaLink="false">TheOneirophreniaEffectWhyIbogainesDreamStateHealsDifferentlyThanSleep</guid>
-      <pubDate>Mon, 16 Feb 2026 13:12:20 GMT</pubDate>
-      <enclosure
-        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheOneirophreniaEffectWhyIbogainesDreamStateHealsDifferentlyThanSleep.mp3"
-        length="12345678"
-        type="audio/mpeg" />
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+<guid isPermaLink="false">TheOneirophreniaEffectWhyIbogainesDreamStateHealsDifferentlyThanSleep</guid>
+<pubDate>Mon, 16 Feb 2026 13:12:20 GMT</pubDate>
+<enclosure
+url="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheOneirophreniaEffectWhyIbogainesDreamStateHealsDifferentlyThanSleep.mp3"
+length="12345678"
+type="audio/mpeg" />
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
 
-  
-    <item>
-      <title><![CDATA[VTA and Substantia Nigra: The Midbrain Regions Where Ibogaine Works Its Magic]]></title>
-      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/VTAandSubstantiaNigraTheMidbrainRegionsWhereIbogaineWorksItsMagic_Episode_Image.jpeg" />
-      <description><![CDATA[A 2015 study on rats demonstrated that ibogaine increased GDNF levels specifically in the ventral tegmental area, or VTA, and the substantia nigra – two incredibly important brain regions. These are the very areas where drugs of abuse activate mesolimbic neurons, driving addiction cues and triggering relapse. Ibogaine doesn't just block symptoms; it directly targets and begins to repair these neurological pathways that keep the cycle going, upregulating neurotrophic factors like GDNF that are crucial for neuronal repair and survival. This is not symptom management; it's a profound neurological transformation.
+
+<item>
+<title><![CDATA[VTA and Substantia Nigra: The Midbrain Regions Where Ibogaine Works Its Magic]]></title>
+<itunes:image href="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/VTAandSubstantiaNigraTheMidbrainRegionsWhereIbogaineWorksItsMagic_Episode_Image.jpeg" />
+<description><![CDATA[A 2015 study on rats demonstrated that ibogaine increased GDNF levels specifically in the ventral tegmental area, or VTA, and the substantia nigra – two incredibly important brain regions. These are the very areas where drugs of abuse activate mesolimbic neurons, driving addiction cues and triggering relapse. Ibogaine doesn't just block symptoms; it directly targets and begins to repair these neurological pathways that keep the cycle going, upregulating neurotrophic factors like GDNF that are crucial for neuronal repair and survival. This is not symptom management; it's a profound neurological transformation.
 
 That deep understanding of how ibogaine works at the molecular level offers profound hope. Today, you'll hear about someone whose life was transformed by this precise neurological reset.
 
@@ -595,7 +595,7 @@ What changed for Mark was nothing short of miraculous for him. He described feel
 Now, six months after his treatment, Mark is a different man. He's back at work, creatively engaged and excelling. His relationships with his wife and children have been fully restored, built on trust and open communication. He says the cravings, which used to be a daily torment, are practically nonexistent. He feels a sense of self-worth and genuine joy that he thought was lost forever. Mark often reflects on how ibogaine allowed him to bypass the brutal physical and psychological hurdles that had always derailed his previous attempts at sobriety. He received a neurological gift, an opportunity for his brain to reset and for him to rebuild his life from a truly clean slate. He is an incredible example of how targeting the root neurological issues can lead to sustained, life-changing recovery.
 
 Learn more: https://theibogainstitute.org]]></description>
-      <content:encoded><![CDATA[A 2015 study on rats demonstrated that ibogaine increased GDNF levels specifically in the ventral tegmental area, or VTA, and the substantia nigra – two incredibly important brain regions. These are the very areas where drugs of abuse activate mesolimbic neurons, driving addiction cues and triggering relapse. Ibogaine doesn't just block symptoms; it directly targets and begins to repair these neurological pathways that keep the cycle going, upregulating neurotrophic factors like GDNF that are crucial for neuronal repair and survival. This is not symptom management; it's a profound neurological transformation.
+<content:encoded><![CDATA[A 2015 study on rats demonstrated that ibogaine increased GDNF levels specifically in the ventral tegmental area, or VTA, and the substantia nigra – two incredibly important brain regions. These are the very areas where drugs of abuse activate mesolimbic neurons, driving addiction cues and triggering relapse. Ibogaine doesn't just block symptoms; it directly targets and begins to repair these neurological pathways that keep the cycle going, upregulating neurotrophic factors like GDNF that are crucial for neuronal repair and survival. This is not symptom management; it's a profound neurological transformation.
 
 That deep understanding of how ibogaine works at the molecular level offers profound hope. Today, you'll hear about someone whose life was transformed by this precise neurological reset.
 
@@ -616,15 +616,15 @@ What changed for Mark was nothing short of miraculous for him. He described feel
 Now, six months after his treatment, Mark is a different man. He's back at work, creatively engaged and excelling. His relationships with his wife and children have been fully restored, built on trust and open communication. He says the cravings, which used to be a daily torment, are practically nonexistent. He feels a sense of self-worth and genuine joy that he thought was lost forever. Mark often reflects on how ibogaine allowed him to bypass the brutal physical and psychological hurdles that had always derailed his previous attempts at sobriety. He received a neurological gift, an opportunity for his brain to reset and for him to rebuild his life from a truly clean slate. He is an incredible example of how targeting the root neurological issues can lead to sustained, life-changing recovery.
 
 Learn more: https://theibogainstitute.org]]></content:encoded>
-      <guid isPermaLink="false">VTAandSubstantiaNigraTheMidbrainRegionsWhereIbogaineWorksItsMagic</guid>
-      <pubDate>Mon, 23 Feb 2026 16:50:39 GMT</pubDate>
-      <enclosure
-        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/VTAandSubstantiaNigraTheMidbrainRegionsWhereIbogaineWorksItsMagic.mp3"
-        length="12345678"
-        type="audio/mpeg" />
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+<guid isPermaLink="false">VTAandSubstantiaNigraTheMidbrainRegionsWhereIbogaineWorksItsMagic</guid>
+<pubDate>Mon, 23 Feb 2026 16:50:39 GMT</pubDate>
+<enclosure
+url="https://ujbclldpvqhtkuoetkep.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/VTAandSubstantiaNigraTheMidbrainRegionsWhereIbogaineWorksItsMagic.mp3"
+length="12345678"
+type="audio/mpeg" />
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
 
-  </channel>
+</channel>
 </rss>
